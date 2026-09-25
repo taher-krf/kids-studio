@@ -409,3 +409,27 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: Verify canonical remote push and CI; proceed to Show Bible v0.1 proposal.
 Notes: Historical entry; append corrections, never edit.
+
+## RES-0002
+
+ID: RES-0002
+Timestamp: 2026-09-25T16:45:57+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: RESEARCH / REPOSITORY VERIFICATION
+Status: VERIFIED
+Author/Agent: Founding architect (Codex)
+Triggered By: Bootstrap completion gate
+Context: Canonical GitHub repository initial push
+Previous Related Entries: DEC-0001, SES-20260925-001
+Decision / Finding / Action: The private canonical repository exists; main was pushed with bootstrap and first context export. Remote main resolved to 6b84835e81ea790bc48309c4d2916be9d8ddba0c, matching local HEAD. Repository validation workflow run 36142942330 completed successfully. Ledger-integrity CI has not run yet and requires a ledger-changing push.
+Reasoning: Record verified external state without rewriting the founding entry.
+Alternatives Considered: None.
+Evidence: Git push output, git ls-remote origin refs/heads/main, and authenticated GitHub Actions page for run 36142942330.
+Risks: Ledger-integrity CI remains TO_VERIFY until a workflow run completes.
+Impact: Update current technical verification status.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md
+Dependencies: GitHub Actions availability.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Verify ledger-integrity workflow after this entry is pushed.
+Notes: Historical entry; append corrections, never edit.
