@@ -47,9 +47,10 @@ def main() -> int:
         history = '## Ledger excerpt\n\nComplete ledger remains in repository. Omitted non-decision entry IDs: ' + (', '.join(omitted) or 'none') + '\n\n' + '\n'.join(decisions + [e for e in recent if e not in decisions])
     parts = [
         '# Kids Studio context pack',
-        f'Canonical repository: https://github.com/taher-krf/kids-studio.git\nSource commit: {git("rev-parse", "HEAD")}\nExport timestamp: {now.isoformat(timespec="seconds")}\nTimezone: Europe/Istanbul (UTC+03:00)',
+        f'Canonical repository: https://github.com/taher-krf/kids-studio.git\nSource commit: {git("rev-parse", "HEAD")}\nSource commit meaning: checkout HEAD at export time; this pack may be committed afterward.\nExport timestamp: {now.isoformat(timespec="seconds")}\nTimezone: Europe/Istanbul (UTC+03:00)',
         '## Current PROJECT_STATE\n\n' + state,
         '## Approved decisions\n\n' + section(state, 'Approved operational decisions'),
+        '## Approved development direction\n\n' + section(state, 'Approved development direction'),
         '## Provisional decisions\n\n' + section(state, 'Provisional creative direction'),
         '## Open questions\n\n' + (ROOT / '00_project/OPEN_QUESTIONS.md').read_text(encoding='utf-8'),
         '## Agent architecture\n\n' + (ROOT / '07_agents/AGENT_ARCHITECTURE.md').read_text(encoding='utf-8'),

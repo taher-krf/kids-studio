@@ -745,3 +745,219 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: OWNER REVIEW OF RESEARCH SPRINT 001 + SHOW BIBLE v0.1 PROPOSAL.
 Notes: Session entry records artifact creation, not owner approval.
+
+## DEC-0013
+
+ID: DEC-0013
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: HUMAN-APPROVED DEVELOPMENT DIRECTION / NOT FINAL CANON
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Explicit human owner decisions after Research Sprint 001 review
+Context: Development audience and format
+Previous Related Entries: PROP-0001, PROP-0003, PROP-0004, RES-0004, DEC-0005
+Decision / Finding / Action: Approve ages 4–6 as the core development audience and approximately ages 3–7 as the accessibility envelope. Approve visual-first storytelling with sparse speech when needed for comprehension, not mandatory silence. Set the pilot runtime development target at approximately 5–7 minutes; this is a target to test, not a proven optimal duration or a finished episode order.
+Reasoning: The human owner explicitly selected these parameters for continued development while retaining empirical uncertainty.
+Alternatives Considered: Earlier 5–8 age idea, other age bands, pure silence, and shorter or longer prototype edits remain in the historical research record.
+Evidence: Owner instruction in the 2026-09-25 decision-integration task; Research Sprint 001 synthesis and Show Bible v0.1 proposal provide prior context, not proof of optimality.
+Risks: Child comprehension, accessibility at both edges, and duration fit remain untested.
+Impact: Development tests, not final Canon v1.0.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md, 00_project/TARGET_AUDIENCE.md, 00_project/OPEN_QUESTIONS.md
+Dependencies: Independent red-team review and concept stress testing before final canon.
+Supersedes: PROP-0001 and the corresponding provisional audience, dialogue, and runtime portions of PROP-0003 and PROP-0004 for development status only.
+Superseded By: None
+Follow-up Required: Test age-stratified comprehension and runtime in later authorized work.
+Notes: Historical proposals remain unchanged.
+
+## DEC-0014
+
+ID: DEC-0014
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: HUMAN-APPROVED DEVELOPMENT DIRECTION / NOT FINAL CANON
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Explicit human owner decisions after Research Sprint 001 review
+Context: Primary concept and initial cast
+Previous Related Entries: DEC-0007, PROP-0002, PROP-0004, DEC-0005
+Decision / Finding / Action: Pip + Nimbus is the approved primary concept for continued development, with two primary characters in the initial core cast. Fix-It and Lumina remain preserved in project history but are paused during Pip + Nimbus development. Character identities, final design, world, and series canon remain open.
+Reasoning: The human owner explicitly selected a development focus and cast size without approving final canon.
+Alternatives Considered: Fix-It and Lumina were considered in the historical proposal and are paused, not erased or rejected as proven inferior.
+Evidence: Owner instruction in the 2026-09-25 decision-integration task.
+Risks: Originality, character range, relationship appeal, and concept durability remain untested.
+Impact: Directs the next concept stress tests.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md, 00_project/OPEN_QUESTIONS.md, 00_project/ROADMAP.md
+Dependencies: Independent red-team review and concept stress testing before final canon.
+Supersedes: DEC-0007, PROP-0002, and the corresponding provisional concept and cast portions of PROP-0004 for development status only.
+Superseded By: None
+Follow-up Required: Independent red-team review of the approved development direction.
+Notes: Neither concept selection nor cast size authorizes finished episodes, artwork, or production.
+
+## DEC-0015
+
+ID: DEC-0015
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: HUMAN-APPROVED DEVELOPMENT DIRECTION / NOT FINAL CANON
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Explicit human owner decisions after Research Sprint 001 review
+Context: Story, comedy, educational value, and pacing
+Previous Related Entries: PROP-0003, PROP-0004, RES-0004, DEC-0005
+Decision / Finding / Action: Develop clear cause and effect, anticipation, escalation, adaptation/repair, and satisfying resolution as the primary comedy/story approach. Educational and social value remains implicit within entertainment and must not become preachy instruction. Pacing should vary with the action and remain readable, without a permanently slow or intentionally hyperstimulating style.
+Reasoning: The human owner explicitly set these development rules while leaving their effectiveness for testing.
+Alternatives Considered: More verbal, didactic, consistently slow, or intentionally hyperstimulating approaches were not selected for this development phase.
+Evidence: Owner instruction in the 2026-09-25 decision-integration task.
+Risks: Repetition, comprehension, and viewer preference remain untested.
+Impact: Guides future concept stress tests and story evaluation.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md
+Dependencies: Independent red-team review and concept stress testing before final canon.
+Supersedes: PROP-0003 and the corresponding provisional comedy, education, and pacing portions of PROP-0004 for development status only.
+Superseded By: None
+Follow-up Required: Independently challenge these rules before final canon.
+Notes: No episode or comedy sequence is approved by this entry.
+
+## DEC-0016
+
+ID: DEC-0016
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: HUMAN-APPROVED DEVELOPMENT DIRECTION / NOT FINAL CANON
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Explicit human owner decisions after Research Sprint 001 review
+Context: Nimbus initial test abilities and balanced character agency
+Previous Related Entries: PROP-0002, PROP-0004, RSK-0002, DEC-0005
+Decision / Finding / Action: Limit Nimbus's INITIAL development-test abilities to mild rain and mild wind. Nimbus's powers must never automatically solve the story. Either Pip or Nimbus may initiate a problem; Pip must not always be the intelligent correct character, and Nimbus must not always be the foolish troublemaker.
+Reasoning: The human owner explicitly bounded initial tests and rejected a fixed competence hierarchy or automatic power-based resolution.
+Alternatives Considered: Broader weather powers and a recurring Nimbus-error/Pip-correction template remain historical possibilities, not approved initial development rules.
+Evidence: Owner instruction in the 2026-09-25 decision-integration task.
+Risks: Power inflation, repetitive plots, and agency imbalance remain open for stress testing.
+Impact: Constrains development tests without fixing a final power system or character design.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md
+Dependencies: Independent red-team review and concept stress testing before final canon.
+Supersedes: Corresponding provisional power and character-dynamic portions of PROP-0002 and PROP-0004 for development status only.
+Superseded By: None
+Follow-up Required: Test whether both characters sustain distinct agency and varied causal stories.
+Notes: Mild rain and mild wind are test abilities only; other powers are not approved for initial tests.
+
+## DEC-0017
+
+ID: DEC-0017
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: HUMAN-APPROVED DEVELOPMENT GATE / FINAL CANON BLOCKED
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Explicit human owner scope and next-action instruction
+Context: Boundary between approved development direction and final canon
+Previous Related Entries: DEC-0005, DEC-0013, DEC-0014, DEC-0015, DEC-0016, PROP-0004
+Decision / Finding / Action: The decisions in DEC-0013 through DEC-0016 authorize continued development and red-team testing only. Final Canon v1.0 remains blocked pending independent red-team review and concept stress testing. Final character design, finished episodes, and production are not authorized. The next project action after this integration session is INDEPENDENT RED-TEAM REVIEW OF THE APPROVED DEVELOPMENT DIRECTION; that review is not part of this session.
+Reasoning: Preserve the owner's explicit separation between selecting a development direction and approving final canon.
+Alternatives Considered: Immediate canon lock or production; neither was authorized.
+Evidence: Owner instruction in the 2026-09-25 decision-integration task.
+Risks: Treating approved development rules as final canon would bypass independent review and testing.
+Impact: Current project gate and next action.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md, 00_project/ROADMAP.md, 00_project/OPEN_QUESTIONS.md
+Dependencies: Independent red-team review and concept stress testing.
+Supersedes: The owner-review-pending next action in PROP-0004 and SES-20260925-004; does not supersede their historical content.
+Superseded By: None
+Follow-up Required: INDEPENDENT RED-TEAM REVIEW OF THE APPROVED DEVELOPMENT DIRECTION.
+Notes: No red-team review was performed in this session.
+
+## FIX-0002
+
+ID: FIX-0002
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: METADATA CORRECTION
+Status: RECORDED
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Human owner provenance review
+Context: Research Sprint 001 execution agent
+Previous Related Entries: RES-0004, RES-0005, RES-0006, PROP-0004, RSK-0002, SES-20260925-004
+Decision / Finding / Action: The Author/Agent value "Codex research sprint" in the listed Research Sprint 001 ledger entries is incorrect provenance. The owner identifies Kimi Code as the actual execution environment used for that sprint. Interpret those historical entries with Kimi Code provenance while preserving their original bytes.
+Reasoning: Correct attribution through append-only history.
+Alternatives Considered: Editing the old entries is prohibited by DEC-0002 and DEC-0003.
+Evidence: Explicit human owner correction in the 2026-09-25 decision-integration task.
+Risks: Uncorrected provenance could mislead later audits.
+Impact: Historical metadata interpretation only; research conclusions are unchanged.
+Files Affected: PROJECT_LEDGER.md
+Dependencies: None.
+Supersedes: Author/Agent metadata in RES-0004, RES-0005, RES-0006, PROP-0004, RSK-0002, and SES-20260925-004 for interpretive purposes.
+Superseded By: None
+Follow-up Required: Use accurate execution-environment attribution in future entries.
+Notes: Historical ledger bytes were not edited.
+
+## FIX-0003
+
+ID: FIX-0003
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: METADATA CORRECTION
+Status: RECORDED
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Human owner timezone review
+Context: Research Sprint 001 timezone metadata
+Previous Related Entries: RES-0004, RES-0005, RES-0006, PROP-0004, RSK-0002, SES-20260925-004
+Decision / Finding / Action: The listed Research Sprint 001 entries label their timezone Asia/Damascus (UTC+03:00), while the configured canonical human project timezone is Europe/Istanbul (UTC+03:00). The numeric UTC offset agrees; the zone identifier is inconsistent. Future ledger entries and exports must use Europe/Istanbul (UTC+03:00). Preserve the historical entry bytes.
+Reasoning: Keep a stable canonical timezone label without erasing the historical record.
+Alternatives Considered: Editing the old entries is prohibited by DEC-0002 and DEC-0003.
+Evidence: Explicit human owner correction in the 2026-09-25 decision-integration task; exporter configuration uses Europe/Istanbul.
+Risks: Zone-label drift can confuse provenance and date comparisons.
+Impact: Historical metadata interpretation and future records.
+Files Affected: PROJECT_LEDGER.md
+Dependencies: None.
+Supersedes: Timezone labels in RES-0004, RES-0005, RES-0006, PROP-0004, RSK-0002, and SES-20260925-004 for canonical interpretation.
+Superseded By: None
+Follow-up Required: Use Europe/Istanbul in future records.
+Notes: Historical ledger bytes were not edited.
+
+## FIX-0004
+
+ID: FIX-0004
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: METADATA CLARIFICATION
+Status: RECORDED
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Human owner CONTEXT_PACK metadata review
+Context: Export Source commit field
+Previous Related Entries: DEC-0009, SES-20260925-004
+Decision / Finding / Action: CONTEXT_PACK Source commit records repository HEAD when export_context_pack.py reads the project, before the newly generated pack is committed. Thus a pack's Source commit can be the immediate parent of the commit that contains it. Clarify this meaning in future pack headers and exports/README.md; do not rewrite existing packs.
+Reasoning: The exporter runs before the required session commit, so the existing field is a valid source-snapshot reference but its label is ambiguous without a note.
+Alternatives Considered: Rewriting historical packs or redesigning the exporter; unnecessary for this metadata clarification.
+Evidence: scripts/export_context_pack.py reads git rev-parse HEAD; CONTEXT_PACK_2026-09-25_007.md records 9e060a85, the parent of its containing commit cfec6970.
+Risks: Readers may mistake Source commit for the commit containing the pack.
+Impact: Future export metadata interpretation only.
+Files Affected: PROJECT_LEDGER.md, scripts/export_context_pack.py, exports/README.md
+Dependencies: None.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Verify the newly generated pack includes the clarification.
+Notes: Existing immutable exports remain unchanged.
+
+## SES-20260925-005
+
+ID: SES-20260925-005
+Timestamp: 2026-09-25T18:37:49+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: SESSION
+Status: RECORDED
+Author/Agent: Codex (owner-decision integration)
+Triggered By: Human owner approval and metadata-correction request
+Context: Integration of approved development direction after Research Sprint 001
+Previous Related Entries: DEC-0013, DEC-0014, DEC-0015, DEC-0016, DEC-0017, FIX-0002, FIX-0003, FIX-0004
+Decision / Finding / Action: Recorded the owner's approved development audience, concept, cast, format, story/comedy, pacing, educational-value, power, and character-agency decisions. Separated approved development direction from blocked final canon; corrected Research Sprint 001 provenance and timezone through new entries; clarified future CONTEXT_PACK source-commit metadata. Updated current state and related planning records without editing old ledger entries or packs. No red-team review, final canon, character design, finished episode, or production work was performed.
+Reasoning: Owner decisions require a durable append-only record and an accurate current-state projection.
+Alternatives Considered: Editing prior proposal, ledger, or packs was rejected to preserve history.
+Evidence: Owner instruction; session diffs, local validation, and remote synchronization are reported with the final commit.
+Risks: RSK-0002 remains open pending independent challenge and tests.
+Impact: Project advances from owner review to approved development direction awaiting independent red-team review.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md, CHANGELOG.md, 00_project/TARGET_AUDIENCE.md, 00_project/OPEN_QUESTIONS.md, 00_project/ROADMAP.md, scripts/export_context_pack.py, exports/README.md, exports/
+Dependencies: Successful validation, immutable export, commit, push, and remote verification.
+Supersedes: SES-20260925-004 next-action status only.
+Superseded By: None
+Follow-up Required: INDEPENDENT RED-TEAM REVIEW OF THE APPROVED DEVELOPMENT DIRECTION.
+Notes: Session entry records integration, not the review itself.

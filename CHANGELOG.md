@@ -15,3 +15,7 @@ Added the mandatory end-of-session GitHub synchronization rule to `AGENTS.md` as
 ## 2026-09-25 — Research Sprint 001 and Show Bible v0.1 proposal
 
 Added cited child-development, comedy, pacing, repeat-viewing, format-reference, market, competitor, platform and AI-production research; a source register and audit/red-team log; a decision synthesis with owner matrix; and a separate, explicitly non-canon Show Bible v0.1 proposal. Updated project state for owner review. Recorded `RES-0004`–`RES-0006`, `PROP-0004`, `RSK-0002`, and `SES-20260925-004`. No audience, concept, power, runtime, episode or production stack was approved.
+
+## 2026-09-25 — Owner-approved development direction
+
+Recorded the owner's development decisions for the 4–6 core audience, approximately 3–7 accessibility, Pip + Nimbus with two primary characters, visual-first sparse speech, approximately 5–7-minute pilot target, cause-and-effect comedy, implicit educational/social value, variable readable pacing, mild rain/wind initial tests, and balanced character agency (`DEC-0013`–`DEC-0016`). Final Canon v1.0 remains blocked pending independent red-team review and concept stress testing (`DEC-0017`). Corrected Research Sprint 001 agent and timezone provenance through new ledger entries (`FIX-0002`, `FIX-0003`), and clarified future CONTEXT_PACK `Source commit` metadata (`FIX-0004`). Historical ledger entries, proposal, and exports were not rewritten (`SES-20260925-005`).
