@@ -601,3 +601,147 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: Next approved phase remains Research Sprint to Show Bible v0.1 proposal.
 Notes: Historical entry; append corrections, never edit.
+
+## RES-0004
+
+ID: RES-0004
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: RESEARCH FINDING
+Status: RECORDED / NON-CANON
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: Child development, pacing and repeat viewing
+Previous Related Entries: RES-0001, PROP-0001, PROP-0003, RSK-0001
+Decision / Finding / Action: Ages 4–6 remain a plausible working core, not a validated optimum. Four- and five-year milestones support testing simple prediction and causal stories; a video-only narrative study challenges pure pantomime for 5–6s. Repetition can improve some explicit comprehension. Experimental pacing results are mixed and do not justify a universal cut rate.
+Reasoning: Preserve counterevidence and distinguish research from creative recommendation.
+Alternatives Considered: 3–4, 5–7 and 6–8 cores remain open.
+Evidence: 03_research/CHILD_DEVELOPMENT/ and 03_research/SOURCE_REGISTER.md (S01–S17).
+Risks: No child concept test or global audience evidence.
+Impact: Show Bible v0.1 proposal only.
+Files Affected: 03_research/CHILD_DEVELOPMENT/, 03_research/RESEARCH_SPRINT_001_SYNTHESIS.md
+Dependencies: Owner audience decision and later audience tests.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Test age-stratified comprehension, preference and caregiver response.
+Notes: Research does not approve audience canon.
+
+## RES-0005
+
+ID: RES-0005
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: RESEARCH FINDING
+Status: RECORDED / NON-CANON
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: YouTube market and policy
+Previous Related Entries: RSK-0001, DEC-0006
+Decision / Finding / Action: UK survey data supports animation relevance among 3–5 viewers, while large incumbents occupy music and visual-comedy spaces. No underserved niche was established. Official YouTube rules require accurate Made for Kids designation and constrain features, ads, safety, YouTube Kids eligibility and inauthentic/repetitive content; no blanket AI-animation ban was found.
+Reasoning: Market inference and binding platform policy must be kept separate.
+Alternatives Considered: No market positioning locked.
+Evidence: 03_research/MARKET/, COMPETITORS/, YOUTUBE_POLICY/ and SOURCE_REGISTER.md (S18–S37).
+Risks: UK-only data, self-reported rights-holder scale, changing policy.
+Impact: Platform and market planning.
+Files Affected: 03_research/MARKET/, 03_research/COMPETITORS/, 03_research/YOUTUBE_POLICY/
+Dependencies: Later market sample and pre-publication policy refresh.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Refresh policy before upload; collect comparable channel and parent evidence.
+Notes: No monetization or publication approved.
+
+## RES-0006
+
+ID: RES-0006
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: RESEARCH FINDING
+Status: RECORDED / NON-CANON
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: AI animation feasibility
+Previous Related Entries: DEC-0006, RSK-0001
+Decision / Finding / Action: Official vendor documentation supports reference-conditioned images/video and first/last-frame guidance, but does not prove recurring-character, prop-contact or episode continuity yield. Sora web/app was discontinued in April 2026 and is not a stable current candidate. No stack selected.
+Reasoning: Capability documentation is not production proof.
+Alternatives Considered: Generative, deterministic and hybrid approaches remain open.
+Evidence: 03_research/PRODUCTION_TECH/AI_ANIMATION_FEASIBILITY_2026.md and SOURCE_REGISTER.md (S38–S43).
+Risks: Character drift, physics, safety, editability and cost remain unbenchmarked.
+Impact: Later pilot benchmark design.
+Files Affected: 03_research/PRODUCTION_TECH/AI_ANIMATION_FEASIBILITY_2026.md
+Dependencies: Owner approval before pilot production or service configuration.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Benchmark only after owner review.
+Notes: No paid service used.
+
+## PROP-0004
+
+ID: PROP-0004
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: PROPOSAL
+Status: PROVISIONAL / AWAITING OWNER REVIEW
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: Show Bible v0.1
+Previous Related Entries: PROP-0001, PROP-0002, PROP-0003, RES-0004, RES-0005, RES-0006
+Decision / Finding / Action: A separate Show Bible v0.1 proposal recommends testing a 4–6 core, sparse rather than automatically silent dialogue, a bounded cooperative Pip/Nimbus weather-comedy hypothesis and an approximately 5–7-minute prototype range. Fix-It and Lumina remain strategic alternatives. Nothing is approved canon.
+Reasoning: Synthesis supports a testable proposal but lacks child, parent, originality and production proof.
+Alternatives Considered: Fix-It and Lumina; alternative age, dialogue and pacing choices are documented in the owner matrix.
+Evidence: 03_research/RESEARCH_SPRINT_001_SYNTHESIS.md, PIP_NIMBUS_FEASIBILITY.md, and 01_show_bible/SHOW_BIBLE_V0.1_PROPOSAL.md.
+Risks: See RSK-0002.
+Impact: Owner review package.
+Files Affected: 01_show_bible/SHOW_BIBLE_V0.1_PROPOSAL.md
+Dependencies: Explicit human decisions under DEC-0005.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Owner review; no Canon v1.0 without approval.
+Notes: Eight premise examples are stress tests, not approved episodes.
+
+## RSK-0002
+
+ID: RSK-0002
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: RISK
+Status: OPEN
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: Concept and production research
+Previous Related Entries: RSK-0001, RES-0004, RES-0005, RES-0006
+Decision / Finding / Action: Purely visual stories may lose causal comprehension; broad weather powers may erase stakes or cause fear; repeated helper-error plots may become inauthentic; generative continuity and original-IP clearance remain unproved.
+Reasoning: Primary narrative evidence, official YouTube policy and vendor capability limits expose material unresolved risks.
+Alternatives Considered: Sparse verbal anchors, bounded powers, varied story mechanisms, deterministic animation and alternative concepts.
+Evidence: 03_research/PIP_NIMBUS_FEASIBILITY.md and RESEARCH_SPRINT_001_SYNTHESIS.md.
+Risks: Concept failure, platform or reputational failure, production waste.
+Impact: Pre-canon and pre-production gates.
+Files Affected: PROJECT_STATE.md, 03_research/
+Dependencies: Owner concept choice and later testing.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Child/caregiver tests, originality review and production benchmark.
+Notes: Existing RSK-0001 stays open.
+
+## SES-20260925-004
+
+ID: SES-20260925-004
+Timestamp: 2026-09-25T17:53:21+03:00
+Timezone: Asia/Damascus (UTC+03:00)
+Entry Type: SESSION
+Status: RECORDED
+Author/Agent: Codex research sprint
+Triggered By: Owner Research Sprint 001 request
+Context: First formal evidence-building research sprint
+Previous Related Entries: RES-0004, RES-0005, RES-0006, PROP-0004, RSK-0002
+Decision / Finding / Action: Created sourced research files, source register, audit log, red-team review, decision matrix and separate Show Bible v0.1 proposal for owner review. No canon, production tool or episode approved.
+Reasoning: Establish reviewable evidence before human creative decisions.
+Alternatives Considered: Existing provisional choices were tested against counterevidence and Fix-It/Lumina controls.
+Evidence: 03_research/RESEARCH_SPRINT_001_SYNTHESIS.md and 01_show_bible/SHOW_BIBLE_V0.1_PROPOSAL.md; local validation and remote push status reported separately.
+Risks: See RSK-0002.
+Impact: Project state advances to owner review of proposal.
+Files Affected: 03_research/, 01_show_bible/SHOW_BIBLE_V0.1_PROPOSAL.md, PROJECT_LEDGER.md, PROJECT_STATE.md, CHANGELOG.md, exports/
+Dependencies: Successful validation, commit, push and remote verification.
+Supersedes: None
+Superseded By: None
+Follow-up Required: OWNER REVIEW OF RESEARCH SPRINT 001 + SHOW BIBLE v0.1 PROPOSAL.
+Notes: Session entry records artifact creation, not owner approval.

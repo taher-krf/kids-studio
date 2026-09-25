@@ -1,0 +1,16 @@
+# Competitor and format control matrix
+
+Status: DESK RESEARCH / hypotheses. Accessed 2026-09-25. Scope is selected comparables, not all children's YouTube. Metadata: [SOURCE_REGISTER](../SOURCE_REGISTER.md). “Scale” uses source date and publisher; counts across brands, channels and videos are not comparable.
+
+| Property / type | Format evidence | Distribution/scale signal | Mechanics worth testing abstractly | Strategic caution |
+| --- | --- | --- | --- | --- |
+| CoComelon / music-led, YouTube-native IP | Moonbug children's music portfolio [S37](https://www.moonbug.com/news/moonbug-launches-big-feelings-music). | Moonbug says one song video passed 9bn lifetime views (2026-09). | Familiar music and repeatable ritual. | Huge music competitor; not proof that visual sitcom should become song-led. |
+| Bebefinn / musical family animation | Pinkfong cross-platform franchise [S36](https://www.thepinkfongcompany.com/en/news/pr/133?page=1). | Rights-holder aggregate: 58bn views, 80m subscribers (2026-04). | Brand identity across songs and stories. | Aggregate numbers are self-reported, not per-episode performance. |
+| Shaun the Sheep / low-dialogue studio comedy | 7-minute recurring farm comedy [S30](https://www.aardman.com/latest-news/2024/march/shaun-the-sheep-s7-very-small-creatures-s3-greenlight/). | Producer says 170 territories; official YouTube channel passed 10m subscribers in 2023 [S35](https://www.aardman.com/latest-news/2023/august/aardman-awarded-youtube-diamond-creator-award-for-shaun-the-sheep/). | Clear roles, physical action, compact world, escalation. | Strong direct neighbor; differentiation and originality review essential. |
+| Timmy Time / quiet preschool social story | 78 original 10-minute no-dialogue episodes, later 5-minute voiceover edits [S31](https://www.aardman.com/film-tv-games/timmy-time/). | Producer says 150 territories. | Character emotion and simple group problems. | Voiceover recut makes no-dialogue superiority uncertain. |
+| Pocoyo / narrated minimalist preschool | Visual simplicity and physical comedy; catalog includes 6-minute episodes [S32](https://www.pocoyo.com/about), [S33](https://www.pocoyo.com/episodes). | Rights holder notes YouTube Diamond award [S32](https://www.pocoyo.com/about). | Readable silhouettes, small ensemble and clean staging. | Avoid its graphic signature, narrator setup and named archetypes. |
+| Bluey / dialogue-rich family story | Official episode catalog emphasizes family play and ensemble [S34](https://www.bluey.tv/watch/). | Official site lists YouTube distribution; no comparable channel scale used. | Emotional specificity and adult/child perspectives. | Tests the cost of sparse dialogue and absence of parents in Pip/Nimbus. |
+
+## Candidate positioning and falsifier
+
+**LOW / INFERENCE:** Pip/Nimbus might occupy a distinct *combination* of cooperative dyad, weather-driven cause/effect and low-dialogue warmth. None of those components is unique. Search comparable cloud/weather characters and episodes, commission qualitative IP counsel review, and blind-test silhouettes and story pitches before any originality claim. An owner should pivot or alter the concept if children confuse the characters, if weather effects make plots interchangeable, or if relevant similarity is found. A 50–100 premise count cannot be inferred from the six examples in this matrix.

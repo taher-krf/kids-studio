@@ -1,10 +1,10 @@
 # Project state
 
-Last meaningful update: mandatory session finalization and GitHub push rule (`DEC-0012`, `AGT-0001`, `SES-20260925-003`); CI verification (`RES-0003`); remote verification (`RES-0002`); bootstrap (`DEC-0001` through `DEC-0011`, `SES-20260925-001`). Status values are deliberate; no concept has final show approval.
+Last meaningful update: Research Sprint 001 evidence and Show Bible v0.1 **proposal** (`RES-0004` through `RES-0006`, `PROP-0004`, `RSK-0002`, `SES-20260925-004`). Earlier operational decisions and CI verification remain recorded. Status values are deliberate; no concept has final show approval.
 
 ## Objective and phase
 
-Build original, highly rewatchable children's entertainment with durable character/IP value and AI-assisted internal production. AI is not the public brand. Phase: **FOUNDATION / PRE-PRODUCTION architecture**. Milestone: repository operating system bootstrap. Next phase: owner-reviewed Show Bible v0.1.
+Build original, highly rewatchable children's entertainment with durable character/IP value and AI-assisted internal production. AI is not the public brand. Phase: **FOUNDATION / PRE-PRODUCTION research**. Milestone: Research Sprint 001 and Show Bible v0.1 proposal prepared; **awaiting owner review**. Canon v1.0 and production remain blocked on human decisions and testing.
 
 ## Approved operational decisions
 
@@ -23,6 +23,7 @@ Build original, highly rewatchable children's entertainment with durable charact
 - Pip + Nimbus hybrid is the leading **PROVISIONAL** concept; both identities and all powers remain unapproved (`PROP-0002`).
 - Visual-first, minimal-dialogue, entertainment-first cause-and-effect comedy is a preferred direction, not a locked engine (`PROP-0003`).
 - Fix-It and Lumina remain alternatives (`PROP-0002`).
+- Research recommends testing 4–6 with an approximately 3–7 accessibility envelope, sparse rather than automatically silent dialogue, and an approximately 5–7-minute *prototype* range; none is approved (`PROP-0004`).
 
 ## Technical architecture, agents, tools
 
@@ -31,9 +32,9 @@ GitHub source, Markdown source hierarchy, append-only ledger, machine-readable e
 ## Open questions and risks
 
 - Human approval of show premise, character identity, powers, audience, world, style, and pilot requirements remains open.
-- Developmental, platform, originality, legal, and production feasibility claims require sourced research (`TO_VERIFY`).
+- Sourced desk research now covers developmental, market, platform, reference and vendor capability questions. Direct child/caregiver tests, global market demand, originality/legal clearance, AI production yield and economics remain `TO_VERIFY` (`RES-0004`–`RES-0006`, `RSK-0002`).
 - Remote `main` push and repository-validation CI were verified (`RES-0002`). Repository-validation and ledger-integrity GitHub Actions both passed on the first ledger-changing push (`RES-0003`); each later change still requires its own checks.
 
 ## Next approved actions and blocks
 
-Prepare Show Bible v0.1 as a proposal for human review; research age comprehension and creative feasibility with cited sources. Do not generate finished episodes/assets or finalize canon, voices, renderer, publishing, or purchases. Sensitive proposals require `SENSITIVE_CONTENT_REVIEW_REQUIRED` and an explicit owner decision.
+**OWNER REVIEW OF RESEARCH SPRINT 001 + SHOW BIBLE v0.1 PROPOSAL.** Owner decisions are listed in `03_research/RESEARCH_SPRINT_001_SYNTHESIS.md`; the separate proposal is `01_show_bible/SHOW_BIBLE_V0.1_PROPOSAL.md`. Do not begin Canon v1.0, full scripts, character artwork, pilot production, renderer selection, publishing or purchases without the applicable owner gate. Sensitive proposals require `SENSITIVE_CONTENT_REVIEW_REQUIRED` and an explicit owner decision.
