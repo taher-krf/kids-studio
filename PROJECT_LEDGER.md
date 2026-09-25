@@ -529,3 +529,75 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: Run repository validation and CI.
 Notes: Historical entry; append corrections, never edit.
+
+## DEC-0012
+
+ID: DEC-0012
+Timestamp: 2026-09-25T17:20:00+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: DECISION
+Status: APPROVED
+Author/Agent: Kimi Code (governance integration session)
+Triggered By: Owner governance instruction
+Context: Mandatory session finalization and GitHub synchronization
+Previous Related Entries: DEC-0001, DEC-0002, DEC-0004
+Decision / Finding / Action: Every agent session must end with full validation, state/ledger updates, CONTEXT_PACK export when the project materially changes, a meaningful commit, push to origin/main, and remote verification. A task is not complete while intended changes exist only locally. Local workspaces remain temporary execution copies of the canonical GitHub repository.
+Reasoning: Owner mandated that the canonical repository must always hold the complete verified state so no work survives only on a local machine.
+Alternatives Considered: Optional push per session; rejected because it permits silent divergence from the canonical repository.
+Evidence: Owner-supplied session finalization and push policy delivered with this task.
+Risks: See RSK-0001. Push depends on network and credential availability; failure handling rules are defined in AGENTS.md.
+Impact: Project operating system
+Files Affected: AGENTS.md, CLAUDE.md, 08_operations/SESSION_PROTOCOL.md, PROJECT_STATE.md
+Dependencies: GitHub availability and agent write access.
+Supersedes: None
+Superseded By: None
+Follow-up Required: None
+Notes: Historical entry; append corrections, never edit.
+
+## AGT-0001
+
+ID: AGT-0001
+Timestamp: 2026-09-25T17:20:00+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: AGENT OPERATING RULE
+Status: ACTIVE
+Author/Agent: Kimi Code (governance integration session)
+Triggered By: Owner governance instruction
+Context: Mandatory session finalization and GitHub synchronization
+Previous Related Entries: DEC-0012
+Decision / Finding / Action: AGENTS.md gains a "Finish every session (mandatory GitHub synchronization)" section binding Codex, Claude Code, Kimi Code, and all other agents: review session artifacts and canonical placement; run repository validation, tests, and ledger-integrity checks; update PROJECT_STATE.md and append PROJECT_LEDGER.md entries without altering historical bytes; update affected manifests/registries/docs; export a new immutable CONTEXT_PACK on material change; stage only intended changes; commit meaningfully; push to origin/main; verify remote state; report repository, branch, commit, push status, files, ledger entries, validation results, CONTEXT_PACK path, and blockers. Push safety: never force-push, rewrite published history, alter ledger history, commit secrets, push build artifacts, push known-broken state, or claim push success without remote verification. CLAUDE.md explicitly inherits these requirements; SESSION_PROTOCOL.md references the canonical rule instead of duplicating it.
+Reasoning: Single canonical rule in AGENTS.md avoids contradictory duplicates across agent documents.
+Alternatives Considered: Copying the full rule into every agent document; rejected as duplication drift risk.
+Evidence: Owner-supplied policy text; AGENTS.md, CLAUDE.md, and SESSION_PROTOCOL.md diffs in this session commit.
+Risks: Agents with older cached instructions may miss the rule until they reread AGENTS.md, which the start-of-task protocol already requires.
+Impact: All future agent sessions.
+Files Affected: AGENTS.md, CLAUDE.md, 08_operations/SESSION_PROTOCOL.md
+Dependencies: DEC-0012.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Apply the rule at the end of this and every subsequent session.
+Notes: Historical entry; append corrections, never edit.
+
+## SES-20260925-003
+
+ID: SES-20260925-003
+Timestamp: 2026-09-25T17:20:00+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: SESSION
+Status: RECORDED
+Author/Agent: Kimi Code (governance integration session)
+Triggered By: Owner governance instruction
+Context: Mandatory session finalization and GitHub synchronization rule integration
+Previous Related Entries: DEC-0012, AGT-0001
+Decision / Finding / Action: Integrated the mandatory end-of-session GitHub push rule into AGENTS.md as the single canonical location, made CLAUDE.md explicitly inherit it, updated SESSION_PROTOCOL.md to reference it, recorded DEC-0012 and AGT-0001, and updated PROJECT_STATE.md and CHANGELOG.md accordingly. No creative, research, episode, visual, or production work was performed.
+Reasoning: Owner limited this task to governance integration.
+Alternatives Considered: None.
+Evidence: Repository validation, unit tests, and ledger-integrity check results reported with the session commit.
+Risks: See RSK-0001.
+Impact: Project operating system governance.
+Files Affected: AGENTS.md, CLAUDE.md, 08_operations/SESSION_PROTOCOL.md, PROJECT_STATE.md, PROJECT_LEDGER.md, CHANGELOG.md, exports/
+Dependencies: Successful push to origin/main and CI confirmation.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Next approved phase remains Research Sprint to Show Bible v0.1 proposal.
+Notes: Historical entry; append corrections, never edit.

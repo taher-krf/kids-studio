@@ -1,6 +1,6 @@
 # Project state
 
-Last meaningful update: CI verification (`RES-0003`); remote verification (`RES-0002`); bootstrap (`DEC-0001` through `DEC-0011`, `SES-20260925-001`). Status values are deliberate; no concept has final show approval.
+Last meaningful update: mandatory session finalization and GitHub push rule (`DEC-0012`, `AGT-0001`, `SES-20260925-003`); CI verification (`RES-0003`); remote verification (`RES-0002`); bootstrap (`DEC-0001` through `DEC-0011`, `SES-20260925-001`). Status values are deliberate; no concept has final show approval.
 
 ## Objective and phase
 
@@ -15,6 +15,7 @@ Build original, highly rewatchable children's entertainment with durable charact
 - Foundation phase and no premature production lock (`DEC-0006`).
 - Childhood-first editorial and sensitive-content escalation policy (`DEC-0008`).
 - Python standard-library validation and export scripts; no paid or external production service added (`DEC-0009`).
+- Local workspaces are temporary execution copies; no session is complete until changes are validated, committed, pushed to `origin/main`, and remotely verified (`DEC-0012`, `AGT-0001`).
 
 ## Provisional creative direction
 
