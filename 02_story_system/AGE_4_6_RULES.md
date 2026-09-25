@@ -1,0 +1,5 @@
+# Age 4–6 and sensitive-content rules
+
+Status: OWNER-SUPPLIED EDITORIAL CANON
+
+Center friendship, kindness, responsibility, curiosity, family, cooperation, honesty, courage, emotional regulation, creativity, problem-solving, nature, science, and everyday childhood experiences. Keep plot, tension, language, and imitation risk appropriate to a provisionally 4–6 core audience. Exclude sexual activity, sexualized behavior, sexual orientation, gender identity/transition themes, adult romantic/sexual identity debates, and ideology/politics about sexuality or gender equally across orientations. Conventional family/sex terms may be used when relevant; do not teach that biological sex is interchangeable or irrelevant. Never demean people or groups, use discriminatory jokes, or make characters culture-war symbols. Any proposal involving sexuality, orientation, gender identity, religion, politics, or adult ideological disputes receives `SENSITIVE_CONTENT_REVIEW_REQUIRED`, a neutral trigger explanation, no automatic story generation/canon edit, and escalation to the human owner.

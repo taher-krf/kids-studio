@@ -1,0 +1,34 @@
+name: Ledger integrity
+on:
+  push:
+    paths: [PROJECT_LEDGER.md, scripts/verify_append_only_ledger.py, .github/workflows/ledger-integrity.yml]
+  pull_request:
+    paths: [PROJECT_LEDGER.md, scripts/verify_append_only_ledger.py, .github/workflows/ledger-integrity.yml]
+jobs:
+  prefix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check immutable ledger prefix
+        shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          PUSH_BEFORE: ${{ github.event.before }}
+        run: |
+          if [ "$EVENT_NAME" = pull_request ]; then
+            git fetch origin "$BASE_SHA"
+            python scripts/verify_append_only_ledger.py --base-ref "$BASE_SHA"
+          elif [ "$PUSH_BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            python scripts/verify_append_only_ledger.py
+          else
+            git fetch origin "$PUSH_BEFORE"
+            python scripts/verify_append_only_ledger.py --base-ref "$PUSH_BEFORE"
+          fi

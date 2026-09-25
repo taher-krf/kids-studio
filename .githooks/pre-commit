@@ -1,0 +1,8 @@
+#!/bin/sh
+set -eu
+if git rev-parse --verify HEAD >/dev/null 2>&1; then
+  python scripts/verify_append_only_ledger.py --base-ref HEAD --staged
+else
+  python scripts/verify_append_only_ledger.py --staged
+fi
+python scripts/validate_repository.py
