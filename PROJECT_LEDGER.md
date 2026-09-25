@@ -457,3 +457,75 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: Validate the final state after push; continue with Show Bible v0.1 proposal.
 Notes: Historical entry; append corrections, never edit.
+
+## ERR-0001
+
+ID: ERR-0001
+Timestamp: 2026-09-25T16:48:07+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: ERROR
+Status: FOUND
+Author/Agent: Founding architect (Codex)
+Triggered By: Final bootstrap review
+Context: Episode proposal scaffolding
+Previous Related Entries: DEC-0010
+Decision / Finding / Action: Initial create_episode.py scaffold wrote a proposal manifest but did not append its EP identity to PROJECT_LEDGER.md.
+Reasoning: The master ledger must track episode creation.
+Alternatives Considered: None.
+Evidence: Code inspection of initial script at commit ccb6aa7.
+Risks: Unlogged episode proposals would weaken master history.
+Impact: Episode identity audit trail.
+Files Affected: scripts/create_episode.py
+Dependencies: No production authorization.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Run repository validation and CI.
+Notes: Historical entry; append corrections, never edit.
+
+## FIX-0001
+
+ID: FIX-0001
+Timestamp: 2026-09-25T16:48:07+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: FIX
+Status: IMPLEMENTED
+Author/Agent: Founding architect (Codex)
+Triggered By: Final bootstrap review
+Context: Episode proposal scaffolding
+Previous Related Entries: ERR-0001
+Decision / Finding / Action: Episode scaffold now requires an in-repository approved brief, writes a portable source reference, and appends an EP proposal entry to the master ledger.
+Reasoning: Preserve episode identity and avoid machine-specific paths in canonical records.
+Alternatives Considered: None.
+Evidence: New unit test test_episode_scaffold_records_master_history passes.
+Risks: Unlogged episode proposals would weaken master history.
+Impact: Episode identity audit trail.
+Files Affected: scripts/create_episode.py, tests/test_foundation.py
+Dependencies: No production authorization.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Run repository validation and CI.
+Notes: Historical entry; append corrections, never edit.
+
+## SES-20260925-002
+
+ID: SES-20260925-002
+Timestamp: 2026-09-25T16:48:07+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: SESSION
+Status: RECORDED
+Author/Agent: Founding architect (Codex)
+Triggered By: Final bootstrap review
+Context: Episode proposal scaffolding
+Previous Related Entries: ERR-0001, FIX-0001
+Decision / Finding / Action: Completed final script review, corrected episode-ledger recording, and reran local checks.
+Reasoning: Bootstrap review found a historical-record gap.
+Alternatives Considered: None.
+Evidence: Nine unit tests and repository validator passed locally.
+Risks: Unlogged episode proposals would weaken master history.
+Impact: Episode identity audit trail.
+Files Affected: scripts/create_episode.py, tests/test_foundation.py, PROJECT_LEDGER.md
+Dependencies: No production authorization.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Run repository validation and CI.
+Notes: Historical entry; append corrections, never edit.

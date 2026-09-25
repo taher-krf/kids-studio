@@ -9,6 +9,8 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 from verify_append_only_ledger import verify
 from validate_project_state import validate as validate_state
 from validate_repository import validate as validate_repo
+import create_episode
+from unittest.mock import patch
 
 
 class LedgerPrefixTests(unittest.TestCase):
@@ -49,6 +51,21 @@ class StateTests(unittest.TestCase):
         data = json.loads((ROOT / '04_episodes/templates/PRODUCTION_MANIFEST_TEMPLATE.json').read_text(encoding='utf-8'))
         self.assertEqual(data['status'], 'PROPOSAL')
         self.assertEqual(data['reuse_tags']['nimbus_powers'], [])
+
+    def test_episode_scaffold_records_master_history(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp)
+            episodes = root / '04_episodes'
+            (episodes / 'templates').mkdir(parents=True)
+            (episodes / 'templates/PRODUCTION_MANIFEST_TEMPLATE.json').write_text('{"status":"PROPOSAL"}', encoding='utf-8')
+            brief = root / 'brief.md'
+            brief.write_text('OWNER_APPROVED_EPISODE_PROPOSAL', encoding='utf-8')
+            (root / 'PROJECT_LEDGER.md').write_text('# Ledger\n', encoding='utf-8')
+            with patch.object(create_episode, 'ROOT', root), patch.object(create_episode, 'EPISODES', episodes), patch.object(sys, 'argv', ['create_episode.py', '--approved-brief', str(brief), '--title', 'Test']):
+                self.assertEqual(create_episode.main(), 0)
+            self.assertEqual(json.loads((episodes / 'EP-0001/manifest.json').read_text(encoding='utf-8'))['episode_id'], 'EP-0001')
+            self.assertIn('ID: EP-0001', (root / 'PROJECT_LEDGER.md').read_text(encoding='utf-8'))
+            self.assertIn('Source brief: brief.md', (episodes / 'EP-0001/README.md').read_text(encoding='utf-8'))
 
 
 if __name__ == '__main__':
