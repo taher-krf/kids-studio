@@ -2,7 +2,7 @@
 
 Status: OPEN
 
-Approved development direction is recorded in `PROJECT_STATE.md` (`DEC-0013`–`DEC-0017`). Still open before final Canon v1.0: independent red-team review and concept stress testing; final character identities and visual language; world and premise specifics; final power rules; pilot requirements and production budget. The approved initial test powers are mild rain and mild wind only (`DEC-0016`).
+Approved development direction is recorded in `PROJECT_STATE.md` (`DEC-0013`–`DEC-0017`). Independent red-team review 001 is complete (`03_research/RED_TEAM/`, `RSK-0003`, `PROP-0005`) and awaits owner review; its recommended modifications and child/caregiver test battery are open owner decisions. Still open before final Canon v1.0: owner decision on `PROP-0005`, then concept stress testing; final character identities and visual language; world and premise specifics; final power rules; pilot requirements and production budget. The approved initial test powers are mild rain and mild wind only (`DEC-0016`).
 
 Further research needed: direct child-development and audience fit, representative market comparables, refreshed platform requirements, production benchmarks, and measurement baselines. Mark evidence gaps `TO_VERIFY`.
 

@@ -1,10 +1,10 @@
 # Project state
 
-Last meaningful update: human-approved development direction (`DEC-0013`–`DEC-0017`), Research Sprint 001 metadata corrections (`FIX-0002`, `FIX-0003`), and CONTEXT_PACK metadata clarification (`FIX-0004`, `SES-20260925-005`). Historical research and Show Bible v0.1 proposal remain preserved as originally recorded.
+Last meaningful update: independent red-team review of the approved development direction completed (`RSK-0003`, `PROP-0005`, `SES-20260925-006`); diagnostic outcome B (proceed to concept stress test with required modifications) recommended and now awaiting owner review. Earlier: human-approved development direction (`DEC-0013`–`DEC-0017`), Research Sprint 001 metadata corrections (`FIX-0002`, `FIX-0003`), and CONTEXT_PACK metadata clarification (`FIX-0004`, `SES-20260925-005`). Historical research and Show Bible v0.1 proposal remain preserved as originally recorded.
 
 ## Objective and phase
 
-Build original, highly rewatchable children's entertainment with durable character/IP value and AI-assisted internal production. AI is not the public brand. Phase: **FOUNDATION / PRE-PRODUCTION development**. Milestone: owner decisions integrated; Pip + Nimbus is the primary development concept awaiting independent red-team review and concept stress testing. **Final Canon v1.0 is blocked.** Production is not authorized.
+Build original, highly rewatchable children's entertainment with durable character/IP value and AI-assisted internal production. AI is not the public brand. Phase: **FOUNDATION / PRE-PRODUCTION development**. Milestone: owner decisions integrated; independent red-team review of Pip + Nimbus complete and awaiting owner review (`PROP-0005`); concept stress testing not yet authorized. **Final Canon v1.0 is blocked.** Production is not authorized.
 
 ## Approved operational decisions
 
@@ -32,11 +32,11 @@ These are **HUMAN-APPROVED DEVELOPMENT DECISIONS**, not final Canon v1.0 (`DEC-0
 
 ## Final canon status
 
-**NOT APPROVED / BLOCKED.** The approved development direction authorizes continued development and red-team testing only. Independent red-team review and concept stress testing must precede any final Canon v1.0 decision (`DEC-0017`). Final character design, finished episodes, and production have no approval. The Show Bible v0.1 file remains a historical **proposal**, not a final canon document.
+**NOT APPROVED / BLOCKED.** The approved development direction authorizes continued development and red-team testing only. Independent red-team review 001 is now complete (`03_research/RED_TEAM/INDEPENDENT_RED_TEAM_001.md`); concept stress testing must still precede any final Canon v1.0 decision (`DEC-0017`). Final character design, finished episodes, and production have no approval. The Show Bible v0.1 file remains a historical **proposal**, not a final canon document.
 
 ## Provisional creative direction
 
-The following remain **PROVISIONAL** or open for later owner decisions: final character identities and visual designs, world and premise specifics, final power system, episode canon, pilot requirements, and production approach. The Research Sprint 001 recommendations remain evidence and test hypotheses; owner approval of a development direction does not validate audience preference, comprehension, runtime optimality, commercial demand, originality, or production feasibility (`RES-0004`–`RES-0006`, `RSK-0002`).
+The following remain **PROVISIONAL** or open for later owner decisions: final character identities and visual designs, world and premise specifics, final power system, episode canon, pilot requirements, and production approach. The Research Sprint 001 recommendations remain evidence and test hypotheses; owner approval of a development direction does not validate audience preference, comprehension, runtime optimality, commercial demand, originality, or production feasibility (`RES-0004`–`RES-0006`, `RSK-0002`). The red-team review's recommendations (`PROP-0005`) are likewise proposals, not decisions.
 
 ## Technical architecture, agents, tools
 
@@ -44,12 +44,12 @@ GitHub source, Markdown source hierarchy, append-only ledger, machine-readable e
 
 ## Open questions and risks
 
-- Independent red-team review and concept stress testing have not yet occurred. Final Canon v1.0, final character design, finished episodes, and production remain blocked (`DEC-0017`).
+- Independent red-team review 001 is complete (`RSK-0003`, `PROP-0005`, `SES-20260925-006`); concept stress testing has not yet occurred and awaits the owner decision on `PROP-0005`. Final Canon v1.0, final character design, finished episodes, and production remain blocked (`DEC-0017`).
 - Direct child/caregiver tests, global market demand, originality/legal clearance, AI production yield and economics remain `TO_VERIFY` (`RES-0004`–`RES-0006`, `RSK-0002`).
-- Low-dialogue comprehension, weather power inflation, repetitive helper-error plots, safety, and balanced Pip/Nimbus agency remain live stress-test risks (`RSK-0002`, `DEC-0016`).
+- Low-dialogue comprehension, weather power inflation, repetitive helper-error plots, safety, and balanced Pip/Nimbus agency remain live stress-test risks (`RSK-0002`, `DEC-0016`). Red-team review 001 added: missing ownable hook, Pip/Nimbus definitional asymmetry, absent character comedy engine, decorative-power and single-mechanism formula risks, near-worst-case production continuity stack, economic dependency coupling, and occupied cloud-character/name space (`RSK-0003`).
 - Remote `main` push and repository-validation CI were verified (`RES-0002`). Repository-validation and ledger-integrity GitHub Actions both passed on the first ledger-changing push (`RES-0003`); each later change still requires its own checks.
 - Research Sprint 001 ledger entries `RES-0004`–`RES-0006`, `PROP-0004`, `RSK-0002`, and `SES-20260925-004` retain historical metadata but are interpreted with Kimi Code execution provenance and the canonical `Europe/Istanbul` timezone (`FIX-0002`, `FIX-0003`).
 
 ## Next approved actions and blocks
 
-**INDEPENDENT RED-TEAM REVIEW OF THE APPROVED DEVELOPMENT DIRECTION.** This review is the next project action and was not performed during owner-decision integration (`DEC-0017`). Follow with concept stress testing before considering final Canon v1.0. Do not begin full scripts, character artwork, pilot production, renderer selection, publishing, or purchases without the applicable owner gate. Sensitive proposals require `SENSITIVE_CONTENT_REVIEW_REQUIRED` and an explicit owner decision.
+**OWNER REVIEW OF INDEPENDENT RED-TEAM REVIEW 001.** The independent red-team review required by `DEC-0017` is complete (`03_research/RED_TEAM/INDEPENDENT_RED_TEAM_001.md`, `03_research/RED_TEAM/FAILURE_MODE_REGISTER_001.md`, `RSK-0003`, `PROP-0005`) and recommends diagnostic outcome B — proceed to concept stress testing with required modifications. Concept stress testing is the following action, only after the owner decides on `PROP-0005`; do not begin the 100-premise stress test, full scripts, character artwork, pilot production, renderer selection, publishing, or purchases without the applicable owner gate. Sensitive proposals require `SENSITIVE_CONTENT_REVIEW_REQUIRED` and an explicit owner decision.

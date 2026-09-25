@@ -6,4 +6,6 @@ Status: OPEN
 
 `RSK-0002`: Research Sprint 001 found specific open risks: low-dialogue causal comprehension, weather power inflation/fear, interchangeable helper-error stories, AI character/prop continuity, and originality clearance. See `03_research/PIP_NIMBUS_FEASIBILITY.md` and `03_research/RESEARCH_SPRINT_001_SYNTHESIS.md`. Desk research does not close either risk.
 
+`RSK-0003`: Independent red-team review 001 added open risks: no ownable concept hook; Pip/Nimbus definitional asymmetry; absent character comedy engine; decorative-power and single-mechanism formula risks; a near-worst-case generative continuity stack colliding with the sparse-dialogue acting demand; economic viability coupled to an unverified AI/hybrid cost collapse; occupied cloud-character and crowded name space pending qualitative screen. See `03_research/RED_TEAM/`. Desk analysis does not close any risk.
+
 Mitigation: sourced research, qualitative reviewers, owner approval gates, and pilot benchmarks before production. Do not claim risk closure without evidence.
