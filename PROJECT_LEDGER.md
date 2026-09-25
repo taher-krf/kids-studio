@@ -433,3 +433,27 @@ Supersedes: None
 Superseded By: None
 Follow-up Required: Verify ledger-integrity workflow after this entry is pushed.
 Notes: Historical entry; append corrections, never edit.
+
+## RES-0003
+
+ID: RES-0003
+Timestamp: 2026-09-25T16:46:53+03:00
+Timezone: Europe/Istanbul (UTC+03:00)
+Entry Type: RESEARCH / CI VERIFICATION
+Status: VERIFIED
+Author/Agent: Founding architect (Codex)
+Triggered By: Bootstrap completion gate
+Context: First ledger-changing push to canonical main
+Previous Related Entries: RES-0002, DEC-0011
+Decision / Finding / Action: GitHub Actions repository validation run 36143071775 and ledger integrity run 36143071682 both completed successfully for commit e835869823573ac61d5a71f797b335d38018f73c.
+Reasoning: Preserve the exact external validation evidence in durable history.
+Alternatives Considered: None.
+Evidence: Authenticated GitHub Actions workflow runs page.
+Risks: Each future change requires its own validation; workflow success does not prove unreviewed creative quality.
+Impact: Remove bootstrap CI verification uncertainty from current state.
+Files Affected: PROJECT_LEDGER.md, PROJECT_STATE.md
+Dependencies: GitHub Actions.
+Supersedes: None
+Superseded By: None
+Follow-up Required: Validate the final state after push; continue with Show Bible v0.1 proposal.
+Notes: Historical entry; append corrections, never edit.

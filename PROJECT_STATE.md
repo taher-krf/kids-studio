@@ -1,6 +1,6 @@
 # Project state
 
-Last meaningful update: remote verification (`RES-0002`); bootstrap (`DEC-0001` through `DEC-0011`, `SES-20260925-001`). Status values are deliberate; no concept has final show approval.
+Last meaningful update: CI verification (`RES-0003`); remote verification (`RES-0002`); bootstrap (`DEC-0001` through `DEC-0011`, `SES-20260925-001`). Status values are deliberate; no concept has final show approval.
 
 ## Objective and phase
 
@@ -31,7 +31,7 @@ GitHub source, Markdown source hierarchy, append-only ledger, machine-readable e
 
 - Human approval of show premise, character identity, powers, audience, world, style, and pilot requirements remains open.
 - Developmental, platform, originality, legal, and production feasibility claims require sourced research (`TO_VERIFY`).
-- Remote `main` push and repository-validation CI were verified (`RES-0002`). Ledger-integrity CI remains TO_VERIFY until its first run; later releases still require their own checks.
+- Remote `main` push and repository-validation CI were verified (`RES-0002`). Repository-validation and ledger-integrity GitHub Actions both passed on the first ledger-changing push (`RES-0003`); each later change still requires its own checks.
 
 ## Next approved actions and blocks
 
