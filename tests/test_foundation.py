@@ -10,6 +10,8 @@ from verify_append_only_ledger import verify
 from validate_project_state import validate as validate_state
 from validate_repository import validate as validate_repo
 import create_episode
+import build_dev_sketches
+import xml.etree.ElementTree as ET
 from unittest.mock import patch
 
 
@@ -66,6 +68,26 @@ class StateTests(unittest.TestCase):
             self.assertEqual(json.loads((episodes / 'EP-0001/manifest.json').read_text(encoding='utf-8'))['episode_id'], 'EP-0001')
             self.assertIn('ID: EP-0001', (root / 'PROJECT_LEDGER.md').read_text(encoding='utf-8'))
             self.assertIn('Source brief: brief.md', (episodes / 'EP-0001/README.md').read_text(encoding='utf-8'))
+
+
+class SketchTests(unittest.TestCase):
+    def test_committed_sketches_match_generator(self):
+        with tempfile.TemporaryDirectory() as temp:
+            written = build_dev_sketches.build(Path(temp))
+            self.assertEqual(len(written), len(build_dev_sketches.SHEETS))
+            for path in written:
+                ET.parse(path)
+                committed = ROOT / '05_visual_system' / 'sketches' / path.name
+                self.assertEqual(path.read_bytes(), committed.read_bytes(),
+                                 f'{path.name} is stale: run python scripts/build_dev_sketches.py')
+
+    def test_development_manifests_have_unique_ids(self):
+        ids = []
+        for name in ('CHARACTER_MANIFEST.json', 'PROP_MANIFEST.json', 'ENVIRONMENT_MANIFEST.json'):
+            data = json.loads((ROOT / '05_visual_system' / name).read_text(encoding='utf-8'))
+            self.assertEqual(data['status'], 'DEVELOPMENT_PROPOSAL')
+            ids.extend(item['id'] for item in data['items'])
+        self.assertEqual(len(ids), len(set(ids)))
 
 
 if __name__ == '__main__':

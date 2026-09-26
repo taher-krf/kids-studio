@@ -2,6 +2,8 @@
 
 **Status: DESIGN BRIEF FOR A FUTURE PHASE. NO ARTWORK, NO APPROVED DESIGN.** Written under `DEC-0018`, part of `PROP-0007`. This brief defines the *problems* the later Visual Bible must solve. It doesn't solve them. Final character design, model sheets, palette and style lock all require owner approval. Character details come from the [Show Bible v0.2 draft](../01_show_bible/SHOW_BIBLE_V0.2_DEVELOPMENT.md). The requirements build on [Red-Team Review 001 §14](../03_research/RED_TEAM/INDEPENDENT_RED_TEAM_001.md).
 
+**Update:** the concrete design directions answering this brief are in [Visual Development v0.3](VISUAL_DEVELOPMENT_V0.3.md) (`PROP-0008`). The brief below is kept as written.
+
 ## 0. The one-sentence goal
 
 **A child should be able to recognize Mulu and Tekla as black silhouettes at thumbnail size, read Mulu's feeling from his weather and Tekla's feeling from her behavior, and never mistake either of them for somebody else's cloud or armadillo.**

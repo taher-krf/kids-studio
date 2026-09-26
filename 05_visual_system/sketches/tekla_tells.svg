@@ -1,0 +1,369 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="900" viewBox="0 0 1480 900">
+<defs><clipPath id="tclip1"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="tclip2"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="tclip3"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="tclip4"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="tclip5"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="bclip6"><circle cx="0" cy="-54" r="54"/></clipPath><clipPath id="bclip7"><circle cx="0" cy="-54" r="54"/></clipPath><clipPath id="tclip8"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath><clipPath id="tclip9"><ellipse cx="0" cy="-74" rx="46" ry="62"/></clipPath></defs>
+<rect width="1480" height="900" fill="#FBF8F2"/>
+<text x="32" y="44" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="26" font-weight="800" text-anchor="start" fill="#2A2F3F">Tekla (T-C) - designed neutral, the tells and the breaks</text>
+<text x="32" y="70" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#6E7489">DEVELOPMENT EXPLORATION (PROP-0008) - not approved design, not reference art</text>
+<text x="40" y="112" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#6E7489">Her face moves less than his by design. Feelings live in big, readable behaviour. Breaks are events.</text>
+<g transform="translate(150 390) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip1)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip1)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip1)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip1)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M16 -100 L50 -96" stroke="#34405E" stroke-width="17" stroke-linecap="round"/>
+<path d="M16 -100 L50 -96" stroke="#D9AD80" stroke-width="11" stroke-linecap="round"/>
+<path d="M22 -92 L54 -90" stroke="#34405E" stroke-width="17" stroke-linecap="round"/>
+<path d="M22 -92 L54 -90" stroke="#D9AD80" stroke-width="11" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(0)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.8 -4 Q14.8 4 20 4 Q25.2 4 25.2 -4 Z" fill="#232838"/>
+<path d="M13.3 -4.5 L26.7 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="21.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M1.6 -4 Q1.6 4 6 4 Q10.4 4 10.4 -4 Z" fill="#232838"/>
+<path d="M0.1 -4.5 L11.9 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="7.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M34 16 Q39 17 44 15" stroke="#232838" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="160" y="426" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">"I'm fine." (designed neutral)</text>
+<g transform="translate(440 390) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip2)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip2)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip2)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip2)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M28 -100 L62 -66" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M28 -100 L62 -66" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(0)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.8 -4 Q14.8 4 20 4 Q25.2 4 25.2 -4 Z" fill="#232838"/>
+<path d="M13.3 -4.5 L26.7 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="21.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M1.6 -4 Q1.6 4 6 4 Q10.4 4 10.4 -4 Z" fill="#232838"/>
+<path d="M0.1 -4.5 L11.9 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="7.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M34 16 Q39 17 44 15" stroke="#232838" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="450" y="426" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">The Straightening</text>
+<path d="M514 318 L542 318 L538 336 L518 336 Z" fill="#fff" stroke="#34405E" stroke-width="2.6" transform="rotate(-6 528 318)"/>
+<path d="M550 314 q8 6 0 14" stroke="#6E7489" stroke-width="2.4" fill="none"/>
+<rect x="498" y="336" width="60" height="6" rx="2" fill="#B98653" stroke="#34405E" stroke-width="2"/>
+<g transform="translate(730 390) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(26 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip3)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip3)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip3)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip3)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M28 -100 L36 -68" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M28 -100 L36 -68" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(0)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.8 -3 Q20 2 25.2 -3" stroke="#232838" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M1.6 -3 Q6 2 10.4 -3" stroke="#232838" stroke-width="2.8" fill="none" stroke-linecap="round"/>
+<path d="M34 16 Q39 17 44 15" stroke="#232838" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="740" y="426" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">The Tiny Bow</text>
+<g transform="translate(1020 390) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip4)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip4)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip4)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip4)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M30 -100 L44 -64" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M30 -100 L44 -64" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+<path d="M42 -52 L46 -44" stroke="#6E7489" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M50 -52 L54 -44" stroke="#6E7489" stroke-width="2.4" stroke-linecap="round"/>
+<path d="M58 -52 L62 -44" stroke="#6E7489" stroke-width="2.4" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(0)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.8 -4 Q14.8 4 20 4 Q25.2 4 25.2 -4 Z" fill="#232838"/>
+<path d="M13.3 -4.5 L26.7 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="21.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M1.6 -4 Q1.6 4 6 4 Q10.4 4 10.4 -4 Z" fill="#232838"/>
+<path d="M0.1 -4.5 L11.9 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="7.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M34 16 Q39 17 44 15" stroke="#232838" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="1030" y="426" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">Tap-tap (sound + claws)</text>
+<g transform="translate(1310 390) scale(1.15 1.15)">
+<path d="M-30 -40 Q-70 -50 -78 -86 Q-60 -60 -30 -24 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-92 -70 Q-96 -90 -84 -104 M-102 -64 Q-110 -90 -94 -112" stroke="#6E7489" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip5)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip5)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip5)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip5)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M16 -100 L50 -96" stroke="#34405E" stroke-width="17" stroke-linecap="round"/>
+<path d="M16 -100 L50 -96" stroke="#D9AD80" stroke-width="11" stroke-linecap="round"/>
+<path d="M22 -92 L54 -90" stroke="#34405E" stroke-width="17" stroke-linecap="round"/>
+<path d="M22 -92 L54 -90" stroke="#D9AD80" stroke-width="11" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(0)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.8 -4 Q14.8 4 20 4 Q25.2 4 25.2 -4 Z" fill="#232838"/>
+<path d="M13.3 -4.5 L26.7 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="21.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M1.6 -4 Q1.6 4 6 4 Q10.4 4 10.4 -4 Z" fill="#232838"/>
+<path d="M0.1 -4.5 L11.9 -4.5" stroke="#34405E" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="7.6" cy="0" r="1.3" fill="#fff"/>
+<path d="M34 16 Q39 17 44 15" stroke="#232838" stroke-width="2.6" fill="none" stroke-linecap="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="1320" y="426" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">The Swish (rare: truly happy)</text>
+<text x="40" y="490" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2A2F3F">The Curl (overwhelmed, happy OR sad) and the breaks</text>
+<g transform="translate(160 700) scale(1.1 1.1)">
+<path d="M40 -84 L66 -100 L50 -72 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M48 -72 L74 -80 L54 -62 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="0" cy="-54" r="54" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -80 Q-4 -60 60 -88" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#bclip6)"/>
+<path d="M-60 -75 Q-4 -55 60 -83" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#bclip6)"/>
+<path d="M-60 -40 Q-4 -20 60 -48" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#bclip6)"/>
+<path d="M-60 -35 Q-4 -15 60 -43" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#bclip6)"/>
+<path d="M26 -101 Q54 -90 56 -56 L34 -56 Q36 -80 26 -101 Z" fill="#C9643E" stroke="#34405E" stroke-width="2.6" clip-path="url(#bclip6)"/>
+<path d="M34 -52 L56 -52 Q54 -24 30 -8 Q38 -30 34 -52 Z" fill="#C9643E" stroke="#34405E" stroke-width="2.6" clip-path="url(#bclip6)"/>
+</g>
+<text x="160" y="736" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">The Curl + "click"</text>
+<g transform="translate(400 700) scale(1.1 1.1)">
+<path d="M40 -84 L66 -100 L50 -72 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M48 -72 L74 -80 L54 -62 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="0" cy="-54" r="54" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -80 Q-4 -60 60 -88" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#bclip7)"/>
+<path d="M-60 -75 Q-4 -55 60 -83" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#bclip7)"/>
+<path d="M-60 -40 Q-4 -20 60 -48" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#bclip7)"/>
+<path d="M-60 -35 Q-4 -15 60 -43" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#bclip7)"/>
+<path d="M26 -101 Q54 -90 56 -56 L34 -56 Q36 -80 26 -101 Z" fill="#C9643E" stroke="#34405E" stroke-width="2.6" clip-path="url(#bclip7)"/>
+<path d="M34 -52 L56 -52 Q54 -24 30 -8 Q38 -30 34 -52 Z" fill="#C9643E" stroke="#34405E" stroke-width="2.6" clip-path="url(#bclip7)"/>
+<path d="M36 -55 Q36 -46 44 -46 Q52 -46 52 -55 Z" fill="#232838"/>
+<path d="M34 -55.5 L54 -55.5" stroke="#34405E" stroke-width="2.6" stroke-linecap="round"/>
+</g>
+<text x="400" y="736" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">The Peek (one eye in the seam)</text>
+<g transform="translate(680 720) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip8)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip8)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip8)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip8)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<path d="M30 -100 L50 -80" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M30 -100 L50 -80" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+<g transform="translate(30 -132) rotate(-16)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M14.5 -1 Q20 -9 25.5 -1" stroke="#232838" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M1.4 -1 Q6 -9 10.6 -1" stroke="#232838" stroke-width="3" fill="none" stroke-linecap="round"/>
+<path d="M30 14 Q38 13 46 12 Q42 24 34 22 Z" fill="#8C3B3B" stroke="#232838" stroke-width="2.4" stroke-linejoin="round"/>
+</g>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="690" y="756" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">Break: the real laugh</text>
+<g transform="translate(960 720) scale(1.15 1.15)">
+<path d="M-30 -40 Q-62 -26 -84 -4 Q-58 -10 -30 -22 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-52 -30 L-47 -18 M-66 -20 L-62 -11" stroke="#8F4329" stroke-width="2.4" stroke-linecap="round"/>
+<ellipse cx="-14" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="-7" cy="-5" rx="17" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<g transform="rotate(0 0 -30)">
+<g transform="rotate(14 0 -74)">
+<ellipse cx="0" cy="-74" rx="46" ry="62" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-37.4 -116 Q-52.4 -104 -49.4 -94 Q-40.4 -91 -32.4 -97" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-39.4 -76 Q-54.4 -64 -51.4 -54 Q-42.4 -51 -34.4 -57" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-60 -98 Q-20 -84 34 -102" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip9)"/>
+<path d="M-60 -93 Q-20 -79 34 -97" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip9)"/>
+<path d="M-60 -58 Q-20 -44 34 -62" stroke="#8F4329" stroke-width="3.2" fill="none" clip-path="url(#tclip9)"/>
+<path d="M-60 -53 Q-20 -39 34 -57" stroke="#E3906A" stroke-width="2.4" fill="none" clip-path="url(#tclip9)"/>
+<ellipse cx="18" cy="-70" rx="26" ry="48" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M3 -100 L37 -97 Q43 -60 38 -27 Q20 -19 2 -24 Q-2 -60 3 -100 Z" fill="#2E7F86" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<rect x="10" y="-72" width="7" height="16" rx="1.5" fill="#F2C230" stroke="#34405E" stroke-width="2"/>
+<path d="M10 -68 L13 -68 M10 -64 L13 -64 M10 -60 L13 -60" stroke="#34405E" stroke-width="1.4"/>
+<rect x="6" y="-62" width="30" height="20" rx="4" fill="#22656B" stroke="#34405E" stroke-width="2.4"/>
+<path d="M4 -99 Q16 -116 36 -97" stroke="#22656B" stroke-width="3" fill="none"/>
+</g>
+<g transform="translate(30 -132) rotate(-6)">
+<path d="M-22 -8 Q-42 -34 -32 -58 Q-12 -48 -4 -18 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-4 -20 Q-2 -44 14 -60 Q26 -40 16 -16 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-20 -16 Q-34 -34 -28 -50 Q-15 -42 -10 -22 Z" fill="#E7A48C"/>
+<path d="M2 -24 Q3 -42 13 -52 Q20 -38 12 -22 Z" fill="#E7A48C"/>
+<ellipse cx="0" cy="0" rx="28" ry="24" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M12 -12 Q40 -8 55 3 Q59 10 52 13 Q34 15 14 12 Z" fill="#F1D4AF" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="55" cy="7" rx="6" ry="5.5" fill="#3A2B28" stroke="#34405E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M-27 -4 Q-26 -30 0 -32 Q24 -33 30 -15 L38 -11 Q20 -15 -27 -4 Z" fill="#C9643E" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M-14 -24 Q2 -30 20 -24" stroke="#E3906A" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="20" cy="-3" r="6.8" fill="#fff" stroke="#232838" stroke-width="2.4"/>
+<circle cx="21" cy="-3" r="3.06" fill="#232838"/>
+<circle cx="5" cy="-3" r="5.8" fill="#fff" stroke="#232838" stroke-width="2.4"/>
+<circle cx="6" cy="-3" r="2.61" fill="#232838"/>
+<ellipse cx="38" cy="20" rx="7" ry="9" fill="#8C3B3B" stroke="#232838" stroke-width="2.4"/>
+</g>
+<path d="M22 -100 L2 -128" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M22 -100 L2 -128" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+<path d="M38 -98 L70 -112" stroke="#34405E" stroke-width="16" stroke-linecap="round"/>
+<path d="M38 -98 L70 -112" stroke="#D9AD80" stroke-width="10" stroke-linecap="round"/>
+</g>
+<ellipse cx="16" cy="-15" rx="12" ry="15" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+<ellipse cx="25" cy="-5" rx="18" ry="6.5" fill="#D9AD80" stroke="#34405E" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<text x="970" y="756" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#2A2F3F">Break: the terrible fake GASP</text>
+<text x="1120" y="540" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">Rules</text>
+<text x="1120" y="559" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- Neutral = half-lidded eyes, flat small mouth,</text>
+<text x="1120" y="578" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">  upright posture, arms folded.</text>
+<text x="1120" y="597" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- No brows, no lashes, no bows, no pink coding.</text>
+<text x="1120" y="616" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- Ears stay upright ("at attention") except</text>
+<text x="1120" y="635" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">  in the Curl and in breaks.</text>
+<text x="1120" y="654" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- Shell never deforms; flexibility is in limbs</text>
+<text x="1120" y="673" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">  and the Curl.</text>
+<text x="1120" y="692" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- Rain rolls off her shell: never wet.</text>
+<text x="1120" y="711" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">- Year-one core tells: Straightening, Curl,</text>
+<text x="1120" y="730" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">  "I'm fine". Bow, tap-tap, Swish are layered in.</text>
+</svg>

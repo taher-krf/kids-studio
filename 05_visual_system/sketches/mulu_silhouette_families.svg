@@ -1,0 +1,324 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="980" viewBox="0 0 1480 980">
+<defs><clipPath id="mclip1"><path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z"/></clipPath><clipPath id="mclip2"><path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z"/></clipPath><clipPath id="mclip3"><path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z"/></clipPath></defs>
+<rect width="1480" height="980" fill="#FBF8F2"/>
+<text x="32" y="44" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="26" font-weight="800" text-anchor="start" fill="#2A2F3F">Mulu - three silhouette families</text>
+<text x="32" y="70" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#6E7489">DEVELOPMENT EXPLORATION (PROP-0008) - not approved design, not reference art</text>
+<rect x="40" y="96" width="330" height="856" rx="14" fill="#FFFFFF" stroke="#E3DDD2" stroke-width="1.5"/>
+<text x="56" y="124" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2A2F3F">AVOID: the generic cloud icon</text>
+<g transform="translate(205 360) scale(0.95 0.95)">
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#34405E" stroke="#34405E" stroke-width="6.8" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="8" cy="-84" r="58" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="64" cy="-58" r="38" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="8" cy="-84" r="58" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="64" cy="-58" r="38" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<ellipse cx="-28" cy="-26" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="44" cy="-26" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="-14" cy="-44" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="-16.55" cy="-48.56" r="2.9" fill="#fff"/>
+<path d="M-5 -68 Q-14 -74 -23 -68" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="30" cy="-44" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="27.45" cy="-48.56" r="2.9" fill="#fff"/>
+<path d="M21 -68 Q30 -74 39 -68" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M-5 -27 Q8 -25 21 -27 Q19 -11 8 -11 Q-3 -11 -5 -27 Z" fill="#8C3B3B" stroke="#232838" stroke-width="3" stroke-linejoin="round"/>
+</g>
+<path d="M80 150 L330 380 M330 150 L80 380" stroke="#D0463B" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+<text x="56" y="460" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Black silhouette</text>
+<g transform="translate(205 620) scale(0.75 0.75)">
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="9.07" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="56" y="668" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Thumbnail test</text>
+<g transform="translate(110 760) scale(0.43 0.43)">
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="15.74" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="110" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">64px</text>
+<g transform="translate(247.6 760) scale(0.22 0.22)">
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="27.2" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M-95 0 L95 0 Q108 0 108 -22 L108 -30 Q108 -52 86 -52 L-86 -52 Q-108 -52 -108 -30 L-108 -22 Q-108 0 -95 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-52" cy="-60" r="40" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="8" cy="-84" r="58" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="64" cy="-58" r="38" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="247.6" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">32px</text>
+<text x="56" y="812" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">Three bumps on a slab: the emoji / weather-app</text>
+<text x="56" y="830" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">cloud. Every AI cloud converges here.</text>
+<text x="56" y="848" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">Reads as "a cloud", never as "Mulu".</text>
+<rect x="400" y="96" width="330" height="856" rx="14" fill="#FFFFFF" stroke="#E3DDD2" stroke-width="1.5"/>
+<text x="416" y="124" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2A2F3F">M-A  "Pillow"</text>
+<g transform="translate(565 360) scale(0.95 0.95)">
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#34405E" stroke="#34405E" stroke-width="6.8" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="88" cy="-22" r="24" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#34405E" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="104" cy="-48" r="13" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="88" cy="-22" r="24" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#FFF7E8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-120 -12 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 L120 0 L-120 0 Z" fill="#D2DEEF" clip-path="url(#mclip1)"/>
+<ellipse cx="-36" cy="-42" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="36" cy="-42" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="-24" cy="-62" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="-26.55" cy="-66.56" r="2.9" fill="#fff"/>
+<path d="M-15 -86 Q-24 -92 -33 -86" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="24" cy="-62" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="21.45" cy="-66.56" r="2.9" fill="#fff"/>
+<path d="M15 -86 Q24 -92 33 -86" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M-13 -43 Q0 -41 13 -43 Q11 -27 0 -27 Q-11 -27 -13 -43 Z" fill="#8C3B3B" stroke="#232838" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+<circle cx="104" cy="-48" r="13" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+</g>
+<path d="M521 387.9 C523.45 393.5 528 397.7 528 402.6 A7 7 0 0 1 514 402.6 C514 397.7 518.55 393.5 521 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="518.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M571 397.9 C573.45 403.5 578 407.7 578 412.6 A7 7 0 0 1 564 412.6 C564 407.7 568.55 403.5 571 397.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="568.34" cy="410.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M619 387.9 C621.45 393.5 626 397.7 626 402.6 A7 7 0 0 1 612 402.6 C612 397.7 616.55 393.5 619 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="616.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<text x="416" y="460" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Black silhouette</text>
+<g transform="translate(565 620) scale(0.75 0.75)">
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="9.07" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="20.07" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="416" y="668" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Thumbnail test</text>
+<g transform="translate(470 760) scale(0.43 0.43)">
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="15.74" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="26.74" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="470" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">64px</text>
+<g transform="translate(607.6 760) scale(0.22 0.22)">
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="27.2" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="38.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M-88 0 L88 0 Q100 0 100 -14 L100 -84 Q100 -118 66 -122 Q0 -132 -66 -122 Q-100 -118 -100 -84 L-100 -14 Q-100 0 -88 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="88" cy="-22" r="24" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -124 C-6 -144 18 -154 20 -140 C21 -131 10 -132 11 -139" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="104" cy="-48" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="607.6" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">32px</text>
+<text x="416" y="812" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">Wide marshmallow loaf, corner puffs, centred curl.</text>
+<text x="416" y="830" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">+ cuddliest, simplest to rig, toy-friendly</text>
+<text x="416" y="848" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- weakest cloud read (pillow / bread / sheep body)</text>
+<text x="416" y="866" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- symmetric: no facing direction in silhouette</text>
+<text x="416" y="884" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- Pusheen-style loaf neighbour</text>
+<rect x="760" y="96" width="330" height="856" rx="14" fill="#FFF1C7" stroke="#E2B84A" stroke-width="2"/>
+<text x="776" y="124" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2A2F3F">M-B  "Cumulus" (recommended)</text>
+<g transform="translate(925 360) scale(0.95 0.95)">
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#34405E" stroke="#34405E" stroke-width="6.8" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="-32" cy="-112" r="54" fill="#34405E" stroke="#34405E" stroke-width="6.8" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#34405E" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="96" cy="-26" r="13" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="-32" cy="-112" r="54" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#FFF7E8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-120 -12 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 L120 0 L-120 0 Z" fill="#D2DEEF" clip-path="url(#mclip2)"/>
+<ellipse cx="-24" cy="-30" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="48" cy="-30" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="-9" cy="-50" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="-11.55" cy="-54.56" r="2.9" fill="#fff"/>
+<path d="M0 -74 Q-9 -80 -18 -74" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="33" cy="-50" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="30.45" cy="-54.56" r="2.9" fill="#fff"/>
+<path d="M24 -74 Q33 -80 42 -74" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M-1 -31 Q12 -29 25 -31 Q23 -15 12 -15 Q1 -15 -1 -31 Z" fill="#8C3B3B" stroke="#232838" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="-96" cy="-26" r="13" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+<circle cx="96" cy="-26" r="13" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+</g>
+<path d="M881 387.9 C883.45 393.5 888 397.7 888 402.6 A7 7 0 0 1 874 402.6 C874 397.7 878.55 393.5 881 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="878.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M931 397.9 C933.45 403.5 938 407.7 938 412.6 A7 7 0 0 1 924 412.6 C924 407.7 928.55 403.5 931 397.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="928.34" cy="410.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M979 387.9 C981.45 393.5 986 397.7 986 402.6 A7 7 0 0 1 972 402.6 C972 397.7 976.55 393.5 979 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="976.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<text x="776" y="460" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Black silhouette</text>
+<g transform="translate(925 620) scale(0.75 0.75)">
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="9.07" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="9.07" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="20.07" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="9.07"/>
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="776" y="668" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Thumbnail test</text>
+<g transform="translate(830 760) scale(0.43 0.43)">
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="15.74" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="15.74" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="26.74" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="15.74"/>
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="830" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">64px</text>
+<g transform="translate(967.6 760) scale(0.22 0.22)">
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="27.2" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="27.2" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="38.2" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M-80 0 L80 0 Q100 0 100 -20 C100 -66.2 64 -84 2 -84 C-64 -84 -100 -66.2 -100 -20 Q-100 0 -80 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="50" cy="-78" r="30" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="-32" cy="-112" r="54" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<path d="M-30 -163 C-36 -182 -12 -192 -10 -178 C-9 -169 -20 -170 -19 -177" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" transform="rotate(0 -32 -60.48) translate(-32 -60.48) scale(1) translate(32 60.48)"/>
+<circle cx="-96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="96" cy="-26" r="13" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="967.6" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">32px</text>
+<text x="776" y="812" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">Wide low body + ONE big Top Puff + curl.</text>
+<text x="776" y="830" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">+ reads as a real cumulus tower (flat base, one tower)</text>
+<text x="776" y="848" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">+ Top Puff is an acting antenna: perks, leans,</text>
+<text x="776" y="866" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">   droops, tucks - mood reads even in silhouette</text>
+<text x="776" y="884" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">+ unique notch at 32px; shows facing direction</text>
+<text x="776" y="902" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- asymmetric: mirror-flip drift risk (drift check D04)</text>
+<rect x="1120" y="96" width="330" height="856" rx="14" fill="#FFFFFF" stroke="#E3DDD2" stroke-width="1.5"/>
+<text x="1136" y="124" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2A2F3F">M-C  "Scoop"</text>
+<g transform="translate(1285 360) scale(0.8 0.8)">
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#34405E" stroke="#34405E" stroke-width="6.8" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="70" cy="-28" r="28" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="0" cy="-184" r="20" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#34405E" stroke-width="17.8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<circle cx="92" cy="-40" r="12" fill="#34405E" stroke="#34405E" stroke-width="6.8"/>
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="70" cy="-28" r="28" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<circle cx="0" cy="-184" r="20" fill="#FFF7E8" stroke="#FFF7E8" stroke-width="0.01"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#FFF7E8" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-120 -12 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 q6 -7 12 0 L120 0 L-120 0 Z" fill="#D2DEEF" clip-path="url(#mclip3)"/>
+<ellipse cx="-36" cy="-60" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="36" cy="-60" rx="9" ry="5" fill="#F4A69E" opacity="0.75"/>
+<ellipse cx="-22" cy="-84" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="-24.55" cy="-88.56" r="2.9" fill="#fff"/>
+<path d="M-13 -108 Q-22 -114 -31 -108" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="22" cy="-84" rx="8.5" ry="12" fill="#232838"/>
+<circle cx="19.45" cy="-88.56" r="2.9" fill="#fff"/>
+<path d="M13 -108 Q22 -114 31 -108" stroke="#232838" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M-13 -61 Q0 -59 13 -61 Q11 -45 0 -45 Q-11 -45 -13 -61 Z" fill="#8C3B3B" stroke="#232838" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+<circle cx="92" cy="-40" r="12" fill="#FFF7E8" stroke="#34405E" stroke-width="3"/>
+</g>
+<path d="M1241 387.9 C1243.45 393.5 1248 397.7 1248 402.6 A7 7 0 0 1 1234 402.6 C1234 397.7 1238.55 393.5 1241 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="1238.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M1291 397.9 C1293.45 403.5 1298 407.7 1298 412.6 A7 7 0 0 1 1284 412.6 C1284 407.7 1288.55 403.5 1291 397.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="1288.34" cy="410.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<path d="M1339 387.9 C1341.45 393.5 1346 397.7 1346 402.6 A7 7 0 0 1 1332 402.6 C1332 397.7 1336.55 393.5 1339 387.9 Z" fill="#6FB2EE" stroke="#34405E" stroke-width="1.6"/>
+<ellipse cx="1336.34" cy="400.15" rx="1.54" ry="2.38" fill="#fff" opacity="0.9"/>
+<text x="1136" y="460" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Black silhouette</text>
+<g transform="translate(1285 620) scale(0.62 0.62)">
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="10.97" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="10.97"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="10.97"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="10.97"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="21.97" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="10.97"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="10.97"/>
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="1136" y="668" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">Thumbnail test</text>
+<g transform="translate(1190 760) scale(0.3 0.3)">
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="22.37" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="22.37"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="22.37"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="22.37"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="33.37" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="22.37"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="22.37"/>
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="1190" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">64px</text>
+<g transform="translate(1327.6 760) scale(0.15 0.15)">
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="27.2" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="38.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="27.2"/>
+<path d="M-62 0 L62 0 Q76 0 76 -16 C76 -123.2 44 -176 0 -176 C-44 -176 -76 -123.2 -76 -16 Q-76 0 -62 0 Z" fill="#1D2230" stroke="#1D2230" stroke-width="0.01" stroke-linejoin="round"/>
+<circle cx="-70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="70" cy="-28" r="28" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="0" cy="-184" r="20" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<path d="M0 -198 C-5 -216 16 -224 18 -212 C19 -204 9 -205 10 -211" fill="none" stroke="#1D2230" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+<circle cx="92" cy="-40" r="12" fill="#1D2230" stroke="#1D2230" stroke-width="0.01"/>
+</g>
+<text x="1327.6" y="778" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="11" font-weight="400" text-anchor="middle" fill="#6E7489">32px</text>
+<text x="1136" y="812" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">Tall dome, cheek puffs, top-knot.</text>
+<text x="1136" y="830" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">+ big face field, very emotive</text>
+<text x="1136" y="848" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- ghost / snowman / dumpling reading risk</text>
+<text x="1136" y="866" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- a second dome beside Tekla's dome (weak pair)</text>
+<text x="1136" y="884" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">- top-knot swirl drifts toward the poop-emoji</text>
+<text x="1136" y="902" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="400" text-anchor="start" fill="#2A2F3F">   silhouette: curl must never spiral upward</text>
+</svg>

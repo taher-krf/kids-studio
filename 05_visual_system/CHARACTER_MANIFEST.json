@@ -1,5 +1,173 @@
 {
-  "schema_version": "0.1",
-  "status": "UNDEFINED",
-  "items": []
+  "schema_version": "0.2",
+  "status": "DEVELOPMENT_PROPOSAL",
+  "note": "DEVELOPMENT PROPOSAL (PROP-0008) under owner development decisions (DEC-0019). Not canon, not approved design. IDs are stable handles for prompts, shot manifests and the benchmark.",
+  "items": [
+    {
+      "id": "CHR-MULU",
+      "working_name": "Mulu",
+      "role": "lead",
+      "sex": "boy (DEC-0019)",
+      "design_direction": "M-B \"Cumulus\" (recommended; alternates M-A \"Pillow\", M-C \"Scoop\")",
+      "spec": "05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 2",
+      "fixed": [
+        "opaque soft-solid body, flat base",
+        "one Top Puff over his own right side, with a forward-hooking curl",
+        "one small shoulder puff (never animates)",
+        "two round nubs, no fingers",
+        "cool blue-grey underside band",
+        "face low on the front; dark oval eyes, one highlight; separate brows"
+      ],
+      "variable_states": {
+        "top_puff_pose": [
+          "up",
+          "perk",
+          "lean",
+          "droop",
+          "tucked"
+        ],
+        "tint": [
+          "normal",
+          "pink",
+          "grey"
+        ],
+        "edge": [
+          "smooth",
+          "ruffled"
+        ],
+        "capacity_optional": [
+          "plump",
+          "normal",
+          "wisp",
+          "held"
+        ],
+        "weather": [
+          "none",
+          "drip",
+          "side_drip",
+          "drizzle",
+          "happy_rain",
+          "plips",
+          "aimed_rain",
+          "breeze",
+          "gust",
+          "huff",
+          "giggle_puff"
+        ]
+      },
+      "powers": "mild rain and mild wind only (DEC-0016, DEC-0019); emotion changes how they appear, never adds powers",
+      "scale": "body width 0.9 TH; talk height base 0.45 TH; float height ~1.1 TH; ceiling = Lookout branch (~4 TH)",
+      "never": [
+        "fog",
+        "mist",
+        "translucency",
+        "lightning",
+        "storm",
+        "shape-shifting",
+        "growing",
+        "splitting",
+        "bodily-function weather",
+        "tears as rain"
+      ],
+      "sketches": [
+        "05_visual_system/sketches/mulu_silhouette_families.svg",
+        "05_visual_system/sketches/mulu_acting_states.svg"
+      ]
+    },
+    {
+      "id": "CHR-TEKLA",
+      "working_name": "Tekla",
+      "role": "lead",
+      "sex": "girl (DEC-0019)",
+      "species": "stylized armadillo-inspired fictional armored creature (DEC-0019)",
+      "design_direction": "T-C \"Leaning Egg\" (recommended; alternates T-A \"Upright Builder\", T-B \"Low Dome\")",
+      "spec": "05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 3",
+      "fixed": [
+        "exactly three shell bands with stepped back outline",
+        "head shield worn like a hard hat",
+        "long snout, round dark nose",
+        "two tall funnel ears",
+        "half-lidded eyes",
+        "cone tail with two rings",
+        "teal apron, one big pocket, yellow folding ruler"
+      ],
+      "variable_states": {
+        "pose": [
+          "fine",
+          "walk",
+          "straighten",
+          "bow",
+          "tap",
+          "swish",
+          "curl",
+          "peek",
+          "roll",
+          "build",
+          "laugh_break",
+          "gasp_break"
+        ]
+      },
+      "rules": [
+        "never wet: rain beads and rolls off her shell (DEC-0019)",
+        "shell never deforms",
+        "never retracts into a shell",
+        "roll only on flat ground; never a spin-dash",
+        "no stereotyped accessories (no bows, lashes, pink coding, jewellery)"
+      ],
+      "scale": "TH = standing height to ear tips; ball diameter ~0.56 TH",
+      "sketches": [
+        "05_visual_system/sketches/tekla_directions.svg",
+        "05_visual_system/sketches/tekla_tells.svg"
+      ]
+    },
+    {
+      "id": "CHR-SNAIL",
+      "working_name": "the Snail",
+      "role": "supporting story function (DEC-0019); wordless",
+      "fixed": [
+        "small painted dot on its shell",
+        "findable in HT-01 wides"
+      ],
+      "rules": [
+        "never speaks, never drives a plot, never solves",
+        "moves only forward, only slowly",
+        "position tracked per shot (snail field)"
+      ]
+    },
+    {
+      "id": "CHR-HERON",
+      "working_name": "the Heron",
+      "role": "supporting story function (DEC-0019); wordless",
+      "rules": [
+        "social pressure through a slow look",
+        "stream bend only",
+        "at most 1 in 4 episodes"
+      ],
+      "pilots": []
+    },
+    {
+      "id": "CHR-FLEDGLING",
+      "working_name": "the fledgling",
+      "role": "one-episode wordless visitor (Pilot 2)",
+      "rules": [
+        "never grabbed or carried by the leads",
+        "never resolves the story"
+      ],
+      "cycles_needed": [
+        "hop",
+        "flap",
+        "tumble (a flutter-down, never a drop)",
+        "fly on drawn wind",
+        "land on a head"
+      ]
+    },
+    {
+      "id": "CHR-BUTTERFLY",
+      "working_name": "butterfly",
+      "role": "ambient world detail (Pilot 1 anticipation gag)",
+      "cycles_needed": [
+        "flutter path"
+      ]
+    }
+  ]
 }

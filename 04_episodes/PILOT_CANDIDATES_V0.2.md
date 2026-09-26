@@ -189,4 +189,6 @@ Tekla stays dry throughout (Rule 8), which helps.
 
 ## Part 3 — Next step for these pilots (owner decision)
 
+**Update:** the owner approved the three development pilots (`DEC-0019`). Beat sheets: [development_pilots/](development_pilots/README.md). The text below is kept as originally proposed.
+
 If the owner approves the three selections: write **beat sheets** (not scripts) for all three using [BEAT_SHEET_TEMPLATE.md](templates/BEAT_SHEET_TEMPLATE.md). Then run a sound-off read-through (can the beats be followed as a silent animatic?) and hand Pilot 1's unveiling sequence and Pilot 3's drip-trail sequence to the production benchmark as test shots ([benchmark brief](../06_production/PRODUCTION_BENCHMARK_BRIEF_V0.2.md)).

@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1",
+  "status": "TEMPLATE",
+  "purpose": "Per-shot continuity state for animatics, the production benchmark and later production. Extends PRODUCTION_MANIFEST_TEMPLATE.json with the state fields required by the Visual Bible brief v0.2 section 10 (PROP-0008).",
+  "shot_id": "UNASSIGNED",
+  "episode_ref": "UNASSIGNED (development pilots use P1/P2/P3; EP- IDs only for authorized episodes)",
+  "beat_ref": "UNASSIGNED (e.g. P1-07)",
+  "benchmark_test": null,
+  "camera_setup": "UNASSIGNED (HT-01..HT-06, WS-01, GD-01, ST-01)",
+  "lighting": "UNASSIGNED (morning | day | golden_hour | night_showcase)",
+  "season_dressing": "summer",
+  "duration_frames": 0,
+  "fps": 24,
+  "characters": {
+    "mulu": {
+      "present": true,
+      "height": "talk (talk | float | lookout | resting | cloud_hat)",
+      "top_puff_pose": "up (up | perk | lean | droop | tucked)",
+      "tint": "normal (normal | pink | grey)",
+      "edge": "smooth (smooth | ruffled)",
+      "capacity": "normal (normal | plump | wisp | held) - only change when the story uses it",
+      "face": "neutral (see VISUAL_DEVELOPMENT_V0.3.md section 2.3)",
+      "weather": {
+        "type": "none (none | drip | side_drip | drizzle | happy_rain | plips | aimed_rain | breeze | gust | huff | giggle_puff)",
+        "rate": null,
+        "source": "base (base | side | mouth | body_edges)",
+        "reacting_objects": []
+      },
+      "facing": "camera (camera | screen_left | screen_right | away)"
+    },
+    "tekla": {
+      "present": true,
+      "pose": "fine (fine | walk | straighten | bow | tap | swish | curl | peek | roll | build | laugh_break | gasp_break)",
+      "face": "neutral",
+      "wet": false,
+      "apron": "on",
+      "facing": "screen_right"
+    }
+  },
+  "props": [
+    {"id": "PRP-EXAMPLE", "state": "UNASSIGNED", "position": "UNASSIGNED", "held_by": null}
+  ],
+  "wet_patches": [
+    {"id": "WET-EXAMPLE", "created_in_shot": "UNASSIGNED", "description": "e.g. drip trail A, 9 drops from umbrella bed to workshop door", "expires": "end_of_scene"}
+  ],
+  "snail": {"position": "UNASSIGNED", "heading": "UNASSIGNED", "on_object": null},
+  "keep_shelf": [],
+  "chimes": "hung (absent | wrapped | hung | ringing | spinning)",
+  "forecast_board": {"mulu_square": "UNASSIGNED", "tekla_square": "empty"},
+  "dialogue": [],
+  "sound_cues": [],
+  "drift_codes_found": [],
+  "reviewer_notes": ""
+}

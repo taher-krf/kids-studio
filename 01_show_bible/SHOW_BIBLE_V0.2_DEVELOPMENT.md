@@ -4,6 +4,23 @@
 
 **Names.** "Mulu" and "Tekla" are *recommended working names* from a desk-level screen ([name screen](../03_research/NAME_SCREEN_002.md)). They replace the historical working names Pip and Nimbus. They are not approved and not legally cleared. If the owner picks other names, find-and-replace them.
 
+> **Owner development decisions (`DEC-0019`, 2026-09-26). Approved development direction, not Final Canon v1.0.**
+> - Working names **Mulu** and **Tekla**; working series title **Mulu & Tekla**. Mulu is a boy; Tekla is a girl.
+> - Tekla is a stylized **armadillo-inspired fictional armored creature**, recognizable and simple rather than zoologically literal.
+> - Core hook approved for continued development: *one friend can't hide a feeling; the other won't show one.*
+> - Mulu's external abilities remain strictly **mild rain and mild wind**. Emotion may change *how* they appear, never add powers.
+> - **"Feelings leak; bodies don't"** is approved: no sneeze-, hiccup- or bodily-function weather.
+> - The **soft-solid / opaque cloud** is the production-aware default direction, **not visually locked**; revise it if it doesn't read as charming or cloud-like.
+> - **Tekla's shell repels Mulu's rain;** she never gets wet from his weather.
+> - **Capacity rule modified:** rain and wind *may* visibly tire or temporarily deplete Mulu when useful for story or comedy, but this is **not an energy meter** or bookkeeping system. Tea is a recurring refill ritual and gag, not mandatory physics (rule 5 below is amended).
+> - **Dialogue:** visual-first and sparse; **working range about 30–100 words where needed**, not a quota or ceiling (§14 amended). Comprehension stays primarily visual.
+> - Grown-ups stay offscreen. Somebody Downstream stays unrevealed for now.
+> - The Snail, the Heron and occasional wordless visitors are approved as **supporting story functions**, not leads.
+> - The light season-arc principle is approved; episodes must not depend on continuity.
+> - Development pilots approved: **A Chair for Mulu**, **Perfectly Fine**, **The Secret Drip** (beat sheets: [development pilots](../04_episodes/development_pilots/README.md)).
+>
+> Everything else in this draft remains a development proposal (`PROP-0007`). Visual development: [Visual Development v0.3](../05_visual_system/VISUAL_DEVELOPMENT_V0.3.md).
+
 Companion documents: [pilot candidates](../04_episodes/PILOT_CANDIDATES_V0.2.md) · [Visual Bible brief](../05_visual_system/VISUAL_BIBLE_BRIEF_V0.2.md) · [production benchmark brief](../06_production/PRODUCTION_BENCHMARK_BRIEF_V0.2.md). Background (not required reading): [Stress Test 001](../03_research/STRESS_TEST_001/FINDINGS_AND_RECOMMENDATION.md), [Red-Team Review 001](../03_research/RED_TEAM/INDEPENDENT_RED_TEAM_001.md), [Show Bible v0.1 proposal](SHOW_BIBLE_V0.1_PROPOSAL.md).
 
 ---
@@ -67,7 +84,7 @@ A sunny afternoon with a chance of drizzle. Cozy but not sleepy, silly but not f
 
 | | |
 | --- | --- |
-| **Is** | A small, round-topped, flat-bottomed cloud about the size of a beach ball. Floats at friend-height. Young, about "five" in behavior. Proposed: boy (owner decision, §25). |
+| **Is** | A small, round-topped, flat-bottomed cloud about the size of a beach ball. Floats at friend-height. Young, about "five" in behavior. A boy (`DEC-0019`). Visual direction: [Visual Development v0.3 §2](../05_visual_system/VISUAL_DEVELOPMENT_V0.3.md#2-mulu). |
 | **In one line** | An open book who wishes, just once, he could keep a page to himself. |
 | **Wants** | To be cool: to keep a secret, play it calm, handle something *without it showing*. Underneath, he wants to be a good friend and not be "too much." |
 | **Fears** | That his feelings are a nuisance. His rain spoils picnics and his gusts knock things over, and someday people will get tired of the weather. |
@@ -84,7 +101,7 @@ A sunny afternoon with a chance of drizzle. Cozy but not sleepy, silly but not f
 
 | | |
 | --- | --- |
-| **Is** | A small armored ground creature (armadillo-inspired, final species/design open, §25) with a banded shell, a tool apron with one big pocket, and quick precise feet. Young, about "five" in behavior. Lives in a round-doored burrow in the hillside. Proposed: girl (owner decision, §25). |
+| **Is** | A small armored ground creature: a stylized, armadillo-inspired fictional species (`DEC-0019`; design in [Visual Development v0.3 §3](../05_visual_system/VISUAL_DEVELOPMENT_V0.3.md#3-tekla)) with a banded shell, a tool apron with one big pocket, and quick precise feet. Young, about "five" in behavior. Lives in a round-doored burrow in the hillside. A girl (`DEC-0019`). |
 | **In one line** | A closed book who secretly hopes someone will read her anyway. |
 | **Wants** | To be capable and taken seriously, the one who has it handled. Underneath, she wants to be close to someone without having to be perfect first. |
 | **Fears** | Looking silly. Needing help. Being seen having a feeling she can't fix. |
@@ -170,7 +187,7 @@ A compact playground for comedy. There's no mythology to learn: one hill, one st
 
 ## 12. Weather and expressive rules
 
-Mild rain and mild wind are the entire power set (`DEC-0016`). Nothing here adds a power. These rules define *how* the two effects express Mulu. **Each rule below is proposed for owner ruling.** Rules 1 and 2 answer the open trigger-scope question from Stress Test 001 (`RSK-0004`, NF-3).
+Mild rain and mild wind are the entire power set (`DEC-0016`). Nothing here adds a power. These rules define *how* the two effects express Mulu. **Status (`DEC-0019`):** rule 1 ("feelings leak; bodies don't") and rule 8 (rain rolls off her shell) are approved development direction; rule 5 is amended; the owner confirmed that emotion changes *how* rain and wind appear but never adds powers. Rules 2, 3, 4, 6 and 7, and rule 1's sleep-drizzle detail, remain development proposals. Rules 1 and 2 answer the open trigger-scope question from Stress Test 001 (`RSK-0004`, NF-3).
 
 ### 12.1 The eight rules
 
@@ -178,7 +195,7 @@ Mild rain and mild wind are the entire power set (`DEC-0016`). Nothing here adds
 2. **Inside is acting; outside is weather.** Changes *to his body* are acting, not powers: puffiness, a pink or grey tint, drooping, smooth or ruffled edges, squash and stretch. The only things that *leave* his body and touch the world are rain (from his flat base) and wind. There is no fog, no lightning, no snow, no shape-shifting, no growing.
 3. **Calm aims; big feelings spray.** When Mulu is calm and caring he can put exactly five drops on exactly one seedling. When he's excited, upset or trying too hard, the same weather comes out unaimed. Intensity always stays mild; only control changes.
 4. **It always shows.** Mulu cannot suppress a feeling. Hiding it changes the *form*, never the fact. A held-in drip comes out his side. A held-in giggle squeaks out as a tiny puff. Holding his breath makes him inflate until something gives.
-5. **Rain costs water; wind costs puff.** Rain uses him up. He gets visibly thinner and must refill by drinking; tea on the bench is his refill ritual. Big gusting leaves him "out of puff," wheezy and small-voiced, until he rests. Capacity has three visible states: full, normal and wisp-thin.
+5. **Weather can tire him** *(amended by `DEC-0019`)*. When it helps the story or the comedy, lots of rain can leave him visibly thinner and lots of gusting can leave him "out of puff" until he rests. This is **not an energy meter**: it is not tracked, counted or required in every episode. Tea on the bench is a recurring refill ritual and gag, not mandatory physics. Three optional visual states exist for when a story uses them: plump, normal and wisp.
 6. **His weather is small and follows him; the sky's weather is big and everywhere.** His rain falls only from under his own body. Real rain falls from the whole sky. A child can always tell whose rain it is.
 7. **Weather never fixes a feeling.** Rain and wind can help with a task: watering, drying, carrying a paper boat, lifting a kite. They cannot resolve the story. The resolution always comes from what the characters do, understand or give up.
 8. **Rain rolls off her shell.** Tekla never gets wet. Drops bead and roll off. This is both the emotional heart of the show and a major production saving (§22).
@@ -252,7 +269,7 @@ The show is funny for seven reasons. Every episode uses at least three, and **at
 **Visual-first with a tiny spoken vocabulary** (`DEC-0013`: sparse speech where it helps comprehension; silence is not mandatory).
 
 - **Sound-off test:** every episode's story must be followable with the sound off. Words add jokes and warmth; they never carry plot information the pictures don't also show.
-- **Word budget:** about 30–60 spoken words per episode. Lines are one to four words long.
+- **Word range** *(amended by `DEC-0019`)*: a working range of about 30–100 spoken words per episode where needed. It is not a quota or a ceiling: use a line only when it improves comprehension, character, comedy or warmth. Lines stay very short.
 - **Signature lines** (translated into each dub language):
   - Tekla: "I'm fine." · "Meant to do that." · "Plan." · "Hmm." · "Mulu!"
   - Mulu: "Uh-oh." · "Sorry!" · "Again!" · "Look!" · "Sunny!" · "Tekla!"
@@ -261,7 +278,7 @@ The show is funny for seven reasons. Every episode uses at least three, and **at
 - **No narrator.** The audience's own reading is the narration.
 - **Why this works internationally:** "I'm fine" carries the same irony in any language. Dubbing is cheap, and the jokes are in the behavior.
 
-Open for testing: whether a slightly larger vocabulary (60–100 words) improves comprehension for 4-year-olds without hurting the visual comedy (see the silent-vs-anchored comparison in the [v0.1 proposal §16](SHOW_BIBLE_V0.1_PROPOSAL.md)).
+Still worth testing inside the working range: whether one short anchor line improves comprehension for 4-year-olds without hurting the visual comedy (see the silent-vs-anchored comparison in the [v0.1 proposal §16](SHOW_BIBLE_V0.1_PROPOSAL.md)). Pilot 2's animatic tests exactly this.
 
 ## 15. Episode rules (non-negotiables for writers)
 
@@ -385,7 +402,7 @@ The Forecast and the Snail Check are *rituals*. They're short, fixed and comfort
 | --- | --- | --- |
 | **The Snail** | Care-receiver; season-long background journey; comic timing | Never speaks, never drives a plot, never solves. Moves only forward, only slowly. |
 | **The Garden** | Something to care for; Mulu's competence | It's a place, not a character. |
-| **Somebody Downstream** | Implied community; exchanges paper boats and pictogram drawings | Never seen (owner decision whether they're ever revealed, §25). Can ask; never solves. |
+| **Somebody Downstream** | Implied community; exchanges paper boats and pictogram drawings | Never seen; unrevealed for now (`DEC-0019`). Can ask; never solves. |
 | **The Village** | Requests and deadlines via the post and notice board; distant rooftops | Grown-ups stay offscreen. The village can ask; never solves. |
 | **The Heron** | Social pressure: a patient, dignified watcher at the stream whose slow look is judgment | Wordless. Appears in at most 1 in 4 episodes. |
 | **The Big Clouds** | Real weather; what Mulu is *not*; sky scale | Faceless. They're weather, not characters. |
@@ -433,7 +450,7 @@ Merchandise isn't a story driver, but these anchors are chosen so the property i
 
 These rules are designed so that the easy recurring scenes are cheap and the showcase scenes are worth their cost. They are written for any production method. No tool or renderer is selected (see the [benchmark brief](../06_production/PRODUCTION_BENCHMARK_BRIEF_V0.2.md)).
 
-1. **Mulu is a soft solid, not vapor.** He has an opaque body with a clean outline and a fixed silhouette (dome top, flat base, one top tuft), like frosting or a marshmallow. This removes the hardest continuity problem the red team found (vapor-body drift) while keeping him unmistakably a cloud.
+1. **Mulu is a soft solid, not vapor** *(owner-approved default direction, not visually locked; `DEC-0019`)*. He has an opaque body with a clean outline and a fixed silhouette (dome top, flat base, one top tuft), like frosting or a marshmallow. This removes the hardest continuity problem the red team found (vapor-body drift) while keeping him unmistakably a cloud.
 2. **Rain is discrete, stylized drops** falling straight down from his flat base. They're countable, never volumetric mist. A drip is one drop.
 3. **Wind is drawn:** stylized swirl lines plus a few objects responding. **Three-thing rule:** at most three light objects react to wind in a standard shot. Showcase shots may exceed this.
 4. **Rain rolls off Tekla.** She is never wet, so the lead with the most screen time carries no wet-state continuity.
@@ -499,7 +516,7 @@ This draft is the working synthesis of Research Sprint 001, Red-Team Review 001 
 
 ## 25. Open issues for owner decision
 
-Each item is a separate owner decision. None is decided by this draft.
+Each item was a separate owner decision. **Items 1–15 were answered by `DEC-0019`** (6 and 9 as modifications; 3 and 7 as development direction that is not visually locked; 5 in part: rules 1 and 8 approved, rule 5 amended, the other rules still proposals; 15 in part: visual development and beat sheets authorized, benchmark execution not yet authorized). The original list is kept below for the record.
 
 1. **Names:** adopt "Mulu" and "Tekla" as working names, or choose from the [shortlist](../03_research/NAME_SCREEN_002.md). A deeper trademark-level screen is needed before any lock.
 2. **Series title:** "Mulu & Tekla" (recommended), or an alternative from the screen.

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1000" viewBox="0 0 1480 1000">
+
+<rect width="1480" height="1000" fill="#FBF8F2"/>
+<text x="32" y="44" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="26" font-weight="800" text-anchor="start" fill="#2A2F3F">The Hilltop - set plan and standard camera setups (top-down, schematic)</text>
+<text x="32" y="70" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="14" font-weight="400" text-anchor="start" fill="#6E7489">DEVELOPMENT EXPLORATION (PROP-0008) - not approved design, not reference art</text>
+<ellipse cx="620" cy="540" rx="520" ry="370" fill="#8DC462" stroke="#34405E" stroke-width="3"/>
+<ellipse cx="620" cy="500" rx="330" ry="220" fill="#A6D27E" stroke="#34405E" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="620" y="610" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#6E7489">PLATEAU (open play space)</text>
+<path d="M110 700 Q180 860 420 930 T900 950 T1180 900" stroke="#5DB7D8" stroke-width="30" fill="none"/>
+<text x="360" y="985" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2A2F3F">STREAM at the foot: stepping stones, little bridge, Heron bend (ST-01)</text>
+<ellipse cx="620" cy="360" rx="74" ry="46" fill="#6FA84A" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="620" cy="356" rx="16" ry="16" fill="#E8584A" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="726" cy="400" rx="30" ry="12" fill="#3C4A45" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="520" cy="396" rx="11" ry="11" fill="#8A5F36" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="820" cy="680" rx="70" ry="13" fill="#B98653" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="904" cy="680" rx="15" ry="15" fill="#8A5F36" stroke="#34405E" stroke-width="2.4"/>
+<ellipse cx="270" cy="470" rx="52" ry="52" fill="#5E9E47" stroke="#34405E" stroke-width="2.4"/>
+<path d="M930 520 L1000 590" stroke="#5E9E47" stroke-width="7" stroke-linecap="round"/>
+<path d="M954 520 L1024 590" stroke="#5E9E47" stroke-width="7" stroke-linecap="round"/>
+<path d="M978 520 L1048 590" stroke="#5E9E47" stroke-width="7" stroke-linecap="round"/>
+<path d="M1002 520 L1072 590" stroke="#5E9E47" stroke-width="7" stroke-linecap="round"/>
+<path d="M620 406 Q640 520 720 610 T820 668" stroke="#A5764C" stroke-width="5" fill="none" stroke-dasharray="3 8" stroke-linecap="round"/>
+<path d="M880 690 Q980 790 1060 880" stroke="#A5764C" stroke-width="5" fill="none" stroke-dasharray="3 8" stroke-linecap="round"/>
+<text x="536" y="340" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#2A2F3F">KNOLL + round door</text>
+<text x="536" y="358" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#2A2F3F">(umbrella bed on the roof)</text>
+<text x="765" y="404" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#2A2F3F">Forecast Board</text>
+<text x="506" y="424" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#2A2F3F">chimes</text>
+<text x="740" y="650" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="end" fill="#2A2F3F">BENCH (faces the valley)</text>
+<text x="924" y="674" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#2A2F3F">old chair</text>
+<text x="270" y="545" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2A2F3F">LOOKOUT TREE</text>
+<text x="1010" y="505" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#2A2F3F">GARDEN (right slope)</text>
+<text x="1070" y="900" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#2A2F3F">path to the post board</text>
+<text x="40" y="130" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">DOWNSTAGE (bottom of plan) = the valley view and</text>
+<text x="40" y="148" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="700" text-anchor="start" fill="#6E7489">village rooftops, the sunset side.</text>
+<path d="M620 860 L493.67 746.25 A170 170 0 0 1 746.33 746.25 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<path d="M820 780 L786.29 696.55 A90 90 0 0 1 853.71 696.55 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<path d="M620 500 L578.79 398.01 A110 110 0 0 1 661.21 398.01 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<path d="M726 470 L711.48 411.78 A60 60 0 0 1 740.52 411.78 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<path d="M300 430 L469.35 415.18 A170 170 0 0 1 397.51 569.26 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<path d="M1110 640 L1004.26 609.68 A110 110 0 0 1 1061.78 541.13 Z" fill="#FFE9A8" fill-opacity="0.35" stroke="#E2B84A" stroke-width="2"/>
+<rect x="608" y="851" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="620" y="888" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-01 master wide</text>
+<rect x="808" y="771" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="820" y="808" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-02 bench two-shot</text>
+<rect x="608" y="491" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="620" y="528" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-03 door medium</text>
+<rect x="714" y="461" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="726" y="498" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-04 board insert</text>
+<rect x="288" y="421" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="300" y="458" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-05 Lookout down-angle</text>
+<rect x="1098" y="631" width="24" height="18" rx="4" fill="#2A2F3F"/>
+<text x="1110" y="668" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="12.5" font-weight="800" text-anchor="middle" fill="#2A2F3F">HT-06 garden edge</text>
+<text x="1180" y="130" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">Standard setups</text>
+<text x="1180" y="150" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-01 master wide (establish, entrances)</text>
+<text x="1180" y="170" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-02 bench two-shot + reverse</text>
+<text x="1180" y="190" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">      (talks, sunset backs-to-camera)</text>
+<text x="1180" y="210" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-03 door medium (Forecast ritual, chimes)</text>
+<text x="1180" y="230" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-04 Forecast Board insert</text>
+<text x="1180" y="250" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-05 Lookout down-angle (Mulu POV,</text>
+<text x="1180" y="270" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">      the whole hill as a map)</text>
+<text x="1180" y="290" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">HT-06 garden edge (garden, Snail)</text>
+<text x="1180" y="310" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F"></text>
+<text x="1180" y="330" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">Secondary set masters</text>
+<text x="1180" y="350" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">WS-01 workshop interior</text>
+<text x="1180" y="370" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">GD-01 garden rows (from HT-06 side)</text>
+<text x="1180" y="390" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">ST-01 stream bend</text>
+<text x="1180" y="410" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F"></text>
+<text x="1180" y="430" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">Light: morning key from stage right;</text>
+<text x="1180" y="450" font-family="Nunito, 'Trebuchet MS', Verdana, sans-serif" font-size="13" font-weight="400" text-anchor="start" fill="#2A2F3F">golden hour sets downstage (valley).</text>
+</svg>

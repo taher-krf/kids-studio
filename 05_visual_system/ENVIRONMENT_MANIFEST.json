@@ -1,5 +1,102 @@
 {
-  "schema_version": "0.1",
-  "status": "UNDEFINED",
-  "items": []
+  "schema_version": "0.2",
+  "status": "DEVELOPMENT_PROPOSAL",
+  "note": "DEVELOPMENT PROPOSAL (PROP-0008) under owner development decisions (DEC-0019). Not canon, not approved design. IDs are stable handles for prompts, shot manifests and the benchmark.",
+  "lighting_states": [
+    "morning",
+    "day",
+    "golden_hour",
+    "night_showcase"
+  ],
+  "season_dressings": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "items": [
+    {
+      "id": "ENV-HILLTOP",
+      "name": "the Hilltop (home base)",
+      "share_target": "about 60% of season screen time",
+      "elements": [
+        "knoll with round door",
+        "umbrella bed on the knoll roof",
+        "Forecast Board",
+        "wind chimes",
+        "plateau lawn",
+        "bench and old chair",
+        "garden slope",
+        "Lookout Tree edge"
+      ],
+      "camera_setups": {
+        "HT-01": "master wide from downstage centre",
+        "HT-02": "bench two-shot (+ reverse, backs to camera)",
+        "HT-03": "door medium",
+        "HT-04": "Forecast Board insert",
+        "HT-05": "Lookout down-angle (Mulu POV)",
+        "HT-06": "garden edge"
+      },
+      "spec": "05_visual_system/HILLTOP_SET_V0.3.md",
+      "sketches": [
+        "05_visual_system/sketches/hilltop_master_wide.svg",
+        "05_visual_system/sketches/hilltop_set_plan.svg"
+      ]
+    },
+    {
+      "id": "ENV-WORKSHOP",
+      "name": "the Workshop (inside the knoll)",
+      "camera_setups": {
+        "WS-01": "workshop master"
+      },
+      "elements": [
+        "workbench",
+        "pegboard of tool silhouettes",
+        "bits bin",
+        "pictogram plans",
+        "round window",
+        "Keep Shelf"
+      ]
+    },
+    {
+      "id": "ENV-GARDEN",
+      "name": "the Garden",
+      "camera_setups": {
+        "GD-01": "garden rows"
+      },
+      "elements": [
+        "leafy rows",
+        "cabbage patch",
+        "garden stakes",
+        "pinwheel",
+        "pebble-bordered path",
+        "Snail territory"
+      ]
+    },
+    {
+      "id": "ENV-STREAM",
+      "name": "the Stream",
+      "camera_setups": {
+        "ST-01": "stream bend"
+      },
+      "elements": [
+        "stepping stones",
+        "little plank bridge",
+        "the Heron bend"
+      ],
+      "notes": "edge set; not used in the three pilots"
+    },
+    {
+      "id": "ENV-LOOKOUT-TREE",
+      "name": "the Lookout Tree",
+      "elements": [
+        "round canopy",
+        "Mulu's long branch (his ceiling, ~4 TH)",
+        "nest (P2)"
+      ],
+      "rules": [
+        "no climbing on screen"
+      ]
+    }
+  ]
 }

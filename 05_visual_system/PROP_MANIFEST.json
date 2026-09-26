@@ -1,5 +1,311 @@
 {
-  "schema_version": "0.1",
-  "status": "UNDEFINED",
-  "items": []
+  "schema_version": "0.2",
+  "status": "DEVELOPMENT_PROPOSAL",
+  "note": "DEVELOPMENT PROPOSAL (PROP-0008) under owner development decisions (DEC-0019). Not canon, not approved design. IDs are stable handles for prompts, shot manifests and the benchmark.",
+  "items": [
+    {
+      "id": "PRP-UMBRELLA-BED",
+      "name": "umbrella bed",
+      "owner": "Mulu",
+      "states": [
+        "on_post",
+        "carried_bowl_up",
+        "filling_quarter",
+        "filling_half",
+        "filling_three_quarter",
+        "tipped_empty"
+      ],
+      "notes": "upturned red umbrella on a post planted on the knoll roof; ribs and hooked handle always visible"
+    },
+    {
+      "id": "PRP-FORECAST-BOARD",
+      "name": "Forecast Board",
+      "owner": "shared",
+      "states": [
+        "blank",
+        "one_symbol",
+        "symbol_plus_question",
+        "wet"
+      ],
+      "symbols": [
+        "sun",
+        "drizzle",
+        "gusts",
+        "single_drop",
+        "plips",
+        "question_mark"
+      ],
+      "notes": "two squares; Tekla's square stays empty until the season finale"
+    },
+    {
+      "id": "PRP-WIND-CHIMES",
+      "name": "wind chimes",
+      "owner": "shared (made by Mulu in Pilot 3)",
+      "states": [
+        "absent",
+        "loose_parts",
+        "wrapped_in_leaf",
+        "hung_still",
+        "ringing",
+        "spinning"
+      ],
+      "notes": "three spoons, two shells, one pebble on a driftwood stick; hangs on Tekla's hook"
+    },
+    {
+      "id": "PRP-APRON",
+      "name": "Tekla's apron",
+      "owner": "Tekla",
+      "states": [
+        "on"
+      ],
+      "notes": "teal, one big pocket; folding ruler always visible; hidden inside the ball when she curls"
+    },
+    {
+      "id": "PRP-FOLDING-RULER",
+      "name": "folding ruler",
+      "owner": "Tekla",
+      "states": [
+        "in_pocket",
+        "in_use"
+      ]
+    },
+    {
+      "id": "PRP-TEAPOT",
+      "name": "teapot",
+      "owner": "shared",
+      "states": [
+        "full",
+        "empty"
+      ]
+    },
+    {
+      "id": "PRP-TEACUP-A",
+      "name": "teacup (Tekla)",
+      "owner": "shared",
+      "states": [
+        "full",
+        "empty"
+      ]
+    },
+    {
+      "id": "PRP-TEACUP-B",
+      "name": "teacup (Mulu)",
+      "owner": "shared",
+      "states": [
+        "full",
+        "cooling",
+        "cold",
+        "empty"
+      ]
+    },
+    {
+      "id": "PRP-STRAW",
+      "name": "long straw",
+      "owner": "Mulu",
+      "states": [
+        "stored",
+        "in_use"
+      ]
+    },
+    {
+      "id": "PRP-WATER-JUG",
+      "name": "water jug",
+      "owner": "shared",
+      "states": [
+        "full",
+        "empty"
+      ],
+      "pilots": [
+        "P1"
+      ]
+    },
+    {
+      "id": "PRP-BENCH",
+      "name": "bench",
+      "owner": "shared",
+      "states": [
+        "standard"
+      ],
+      "notes": "plank bench with backrest facing the valley"
+    },
+    {
+      "id": "PRP-CHAIR-OLD",
+      "name": "Tekla's old chair",
+      "owner": "Tekla",
+      "states": [
+        "by_bench"
+      ],
+      "notes": "pegged ladder-back chair; her first build"
+    },
+    {
+      "id": "PRP-CHAIR-NEW",
+      "name": "the new chair (twin)",
+      "owner": "Mulu (gift)",
+      "pilots": [
+        "P1"
+      ],
+      "states": [
+        "covered",
+        "revealed",
+        "leg_sawn_wobbly",
+        "drain_hole",
+        "hung_upside_down"
+      ]
+    },
+    {
+      "id": "PRP-SHEET",
+      "name": "sheet (or stiff cover fallback)",
+      "pilots": [
+        "P1"
+      ],
+      "states": [
+        "on_chair",
+        "over_tekla",
+        "folded"
+      ]
+    },
+    {
+      "id": "PRP-PEBBLES",
+      "name": "pebbles",
+      "pilots": [
+        "P1"
+      ],
+      "states": [
+        "in_nubs",
+        "on_ground"
+      ]
+    },
+    {
+      "id": "PRP-STRAP",
+      "name": "apron strap",
+      "pilots": [
+        "P1"
+      ],
+      "states": [
+        "buckled_on_mulu",
+        "buckled_empty"
+      ]
+    },
+    {
+      "id": "PRP-ROPE-PULLEY",
+      "name": "rope and pulley",
+      "pilots": [
+        "P1"
+      ],
+      "states": [
+        "coiled",
+        "rigged",
+        "tied_off"
+      ]
+    },
+    {
+      "id": "PRP-TOOLS",
+      "name": "hand saw, hand drill, comb, bucket",
+      "owner": "Tekla",
+      "notes": "live in the workshop; appear only when used"
+    },
+    {
+      "id": "PRP-PINECONES",
+      "name": "pinecones (5-7, graded sizes)",
+      "pilots": [
+        "P2"
+      ],
+      "states": [
+        "loose",
+        "size_row",
+        "scattered"
+      ]
+    },
+    {
+      "id": "PRP-GARDEN-STAKES",
+      "name": "garden stakes",
+      "states": [
+        "straight",
+        "aligned",
+        "tilted"
+      ]
+    },
+    {
+      "id": "PRP-PEBBLE-BORDER",
+      "name": "pebble border",
+      "states": [
+        "straight"
+      ]
+    },
+    {
+      "id": "PRP-FLIGHT-RAMP",
+      "name": "flight ramp with flag and bird picture-tag",
+      "pilots": [
+        "P2"
+      ],
+      "states": [
+        "absent",
+        "built",
+        "in_use"
+      ]
+    },
+    {
+      "id": "PRP-PRESENT",
+      "name": "leaf-wrapped present",
+      "pilots": [
+        "P3"
+      ],
+      "states": [
+        "wrapped",
+        "spoon_visible",
+        "nibbled_lace",
+        "unwrapped"
+      ]
+    },
+    {
+      "id": "PRP-HOOK",
+      "name": "chimes hook",
+      "pilots": [
+        "P3"
+      ],
+      "states": [
+        "in_pocket",
+        "held",
+        "on_door_post"
+      ]
+    },
+    {
+      "id": "PRP-NOT-LOOKING-SCREEN",
+      "name": "\"not looking\" folding screen with closed-eye picture-tag",
+      "pilots": [
+        "P3"
+      ],
+      "states": [
+        "up"
+      ]
+    },
+    {
+      "id": "PRP-KEEP-SHELF",
+      "name": "Keep Shelf",
+      "owner": "Tekla",
+      "states": [
+        "contents list per episode"
+      ],
+      "notes": "one souvenir per episode: lace leaf (P3), sawn chair leg (P1), crooked pinecone (P2)"
+    },
+    {
+      "id": "PRP-PINWHEEL",
+      "name": "pinwheel on a stake",
+      "states": [
+        "still",
+        "turning"
+      ]
+    },
+    {
+      "id": "PRP-PICTURE-TAGS",
+      "name": "Tekla's picture-tags",
+      "owner": "Tekla",
+      "notes": "pictograms only; no letters"
+    },
+    {
+      "id": "PRP-PAPER-BOAT",
+      "name": "paper boat",
+      "notes": "delivery from Somebody Downstream (unrevealed); not used in the pilots"
+    }
+  ]
 }
