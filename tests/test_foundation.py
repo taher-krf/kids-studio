@@ -124,7 +124,20 @@ class SketchTests(unittest.TestCase):
             self.assertEqual(asset['provenance']['prompt'], 'UNKNOWN')
             self.assertEqual(asset['provenance']['seed'], 'UNKNOWN')
         registry = json.loads((ROOT / '05_visual_system' / 'ASSET_REGISTRY.json').read_text(encoding='utf-8'))
-        self.assertEqual({item['id'] for item in registry['items']}, set(ids))
+        r15_items = [item for item in registry['items'] if item['phase'] == 'round_1_5']
+        self.assertEqual({item['id'] for item in r15_items}, set(ids))
+
+    def test_round_2_registered_assets(self):
+        registry = json.loads((ROOT / '05_visual_system' / 'ASSET_REGISTRY.json').read_text(encoding='utf-8'))
+        r2_items = [item for item in registry['items'] if item['phase'] == 'round_2']
+        self.assertEqual(len(r2_items), 13)
+        ids = [item['id'] for item in r2_items]
+        self.assertEqual(len(ids), len(set(ids)))
+        for item in r2_items:
+            self.assertTrue(item['file'].startswith(('Mulu/R2_', 'Tekla/R2_')))
+            self.assertTrue(item['role'])
+            self.assertTrue(item['owner_confirmed'])
+            self.assertTrue(item['tool'].startswith('UNKNOWN'))
 
 
 if __name__ == '__main__':
