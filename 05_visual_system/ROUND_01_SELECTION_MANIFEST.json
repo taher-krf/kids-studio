@@ -1,0 +1,59 @@
+{
+  "schema_version": "0.1",
+  "status": "DEVELOPMENT_PROPOSAL",
+  "round": "round_01",
+  "reviewed": "2026-09-26",
+  "review_document": "ROUND_01_REVIEW_AND_SELECTION.md",
+  "working_direction": "3D-first (owner-communicated 2026-09-26): 3D characters, 3D world, 3D video benchmark; not a canon lock",
+  "image_storage": {
+    "decision": "Exploration images stay in the owner's local asset workspace outside the canonical repository; the repo stores references and scores only.",
+    "local_root": "C:/Users/PC/Documents/GitHub/Kids Studio Assets/Visual Development/Round 01",
+    "tool_observed": "Gemini image generation (per filenames); no prompt/seed log was kept (see refinement R-X1)"
+  },
+  "selections": [
+    {
+      "category": "mulu",
+      "selected_baseline": "3D soft-solid M-B 'Cumulus'",
+      "look_source_image": "Mulu/Gemini_Generated_Image_nfdbipnfdbipnfdb.jfif",
+      "structure_reference_image": "Pair/Gemini_Generated_Image_sj9iaasj9iaasj9i.jfif",
+      "rejected_candidates": [
+        {"image": "Mulu/Gemini_Generated_Image_7l13gp7l13gp7l13.jfif", "reason": "2D control; humanoid-body drift; anime sweat-drop; stock mascot read"}
+      ],
+      "required_refinements": ["R-M1", "R-M2", "R-M3", "R-M4", "R-M5"],
+      "owner_confirmed": false
+    },
+    {
+      "category": "tekla",
+      "selected_baseline": "3D clay T-C 'Leaning Egg'",
+      "look_source_image": "Tekla/Gemini_Generated_Image_zbn8cfzbn8cfzbn8.jfif",
+      "acting_reference_image": "Tekla/Gemini_Generated_Image_pkrb8apkrb8apkrb.jfif",
+      "rejected_candidates": [
+        {"image": "Tekla/Gemini_Generated_Image_pkrb8apkrb8apkrb.jfif", "reason": "2D control; kept as deadpan acting reference, not baseline; upright stance nearer T-A"}
+      ],
+      "required_refinements": ["R-T1", "R-T2", "R-T3", "R-T4", "R-T5"],
+      "owner_confirmed": false
+    },
+    {
+      "category": "pair",
+      "selected_baseline": "Pair-01 staging, scale and chemistry, re-rendered in 3D",
+      "structure_reference_image": "Pair/Gemini_Generated_Image_sj9iaasj9iaasj9i.jfif",
+      "rejected_candidates": [],
+      "required_refinements": ["R-P1", "R-P2", "R-P3"],
+      "coverage_gaps": ["no 3D pair exists", "no Cloud Hat test (G-10)", "no rain-off-the-shell test (G-11)"],
+      "owner_confirmed": false
+    },
+    {
+      "category": "hilltop",
+      "selected_baseline": "Corrected 3D build per HILLTOP_SET_V0.3; Round 01 plate is charm/composition reference only",
+      "composition_reference_image": "Hilltop/Gemini_Generated_Image_fvze2dfvze2dfvze.jfif",
+      "rejected_candidates": [],
+      "required_refinements": ["R-H1", "R-H2", "R-H3", "R-H4"],
+      "coverage_gaps": ["no 3D world image exists"],
+      "owner_confirmed": false
+    }
+  ],
+  "cross_cutting_refinements": ["R-X1", "R-X2", "R-X3"],
+  "recommendation": "B",
+  "recommendation_meaning": "Proceed with the 3D baselines after one small refinement pass (Round 1.5), then owner confirmation, Round 2 model sheets, an image-to-video smoke test, and the Round 3 benchmark reference package",
+  "canon_lock": false
+}

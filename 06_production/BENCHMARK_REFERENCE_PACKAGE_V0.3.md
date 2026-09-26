@@ -2,6 +2,8 @@
 
 **Status: SPECIFIED, NOT PRODUCED. THE BENCHMARK IS NOT AUTHORIZED TO RUN. NO TOOL, RENDERER OR PURCHASE IS SELECTED.** Proposed under `PROP-0008`. This is the exact reference package and shot list that the [weighted production benchmark](PRODUCTION_BENCHMARK_BRIEF_V0.2.md) needs (its §7 "inputs"). Running the benchmark needs a separate owner authorization and spend limit.
 
+> **Round 01 update (2026-09-26, `PROP-0009`):** under the owner-communicated 3D-first working direction, the 3D-adjusted path to this package (Round 1.5 → Round 2 → image-to-video smoke test → Round 3) is specified in [BENCHMARK_3D_REFERENCE_PACKAGE_V0.4.md](BENCHMARK_3D_REFERENCE_PACKAGE_V0.4.md). The shot list, weights and acceptance logic below remain the governing spec.
+
 "Benchmark-grade" means consistent enough to test identity and effects against, not final design. The package is produced in visual Round 3 ([generation package](../05_visual_system/GENERATION_PACKAGE_V0.3.md)), after the owner picks directions in Round 1.
 
 ## 1. Package contents

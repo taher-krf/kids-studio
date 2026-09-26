@@ -2,6 +2,8 @@
 
 **Status: VISUAL DEVELOPMENT DIRECTION. NOT A STYLE LOCK, NOT FINAL DESIGN, NOT CANON.** Written under the owner's development decisions (`DEC-0019`) and proposed as `PROP-0008`. It turns the [Visual Bible brief v0.2](VISUAL_BIBLE_BRIEF_V0.2.md) into concrete design directions. The sketches are rough construction drawings, generated from parametric shapes by [`scripts/build_dev_sketches.py`](../scripts/build_dev_sketches.py). They are not model sheets or reference art.
 
+> **Round 01 update (2026-09-26, `RES-0010` / `PROP-0009`):** Round 01 exploration images are reviewed in [ROUND_01_REVIEW_AND_SELECTION.md](ROUND_01_REVIEW_AND_SELECTION.md). Under the owner-communicated 3D-first working direction, the "Look / rendering style" row below is now answered in practice by the **soft 3D toy direction (L-2)**, pending the owner's formal confirmation after the Round 1.5 refinement pass. The M-B and T-C recommendations stand; no candidate passed the rubric unmodified.
+
 Companions: [Hilltop set plan](HILLTOP_SET_V0.3.md) · [generation package](GENERATION_PACKAGE_V0.3.md) · [benchmark reference package](../06_production/BENCHMARK_REFERENCE_PACKAGE_V0.3.md) · [pilot beat sheets](../04_episodes/development_pilots/README.md) · [Show Bible v0.2](../01_show_bible/SHOW_BIBLE_V0.2_DEVELOPMENT.md).
 
 ## 0. What this package recommends, and what stays open

@@ -89,6 +89,20 @@ class SketchTests(unittest.TestCase):
             ids.extend(item['id'] for item in data['items'])
         self.assertEqual(len(ids), len(set(ids)))
 
+    def test_round_01_selection_manifest(self):
+        data = json.loads((ROOT / '05_visual_system' / 'ROUND_01_SELECTION_MANIFEST.json').read_text(encoding='utf-8'))
+        self.assertEqual(data['status'], 'DEVELOPMENT_PROPOSAL')
+        self.assertFalse(data['canon_lock'])
+        self.assertEqual(data['recommendation'], 'B')
+        categories = {item['category'] for item in data['selections']}
+        self.assertEqual(categories, {'mulu', 'tekla', 'pair', 'hilltop'})
+        for item in data['selections']:
+            self.assertTrue(item['selected_baseline'])
+            self.assertTrue(item['required_refinements'])
+            self.assertFalse(item['owner_confirmed'])
+        review = ROOT / '05_visual_system' / data['review_document']
+        self.assertTrue(review.is_file())
+
 
 if __name__ == '__main__':
     unittest.main()

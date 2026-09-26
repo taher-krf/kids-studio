@@ -2,6 +2,8 @@
 
 **Status: READY-TO-USE BRIEFING FOR THE NEXT PHASE. NOTHING HAS BEEN GENERATED.** Proposed under `PROP-0008`. It is tool-agnostic: the prompts are written for any image generator *and* for a human illustrator. **Choosing a generation tool, any spend, and storing generated images in the repository are owner decisions** (see §1). No output may be published.
 
+> **Round 01 update (2026-09-26, `RES-0010` / `PROP-0009`):** Round 1 exploration ran (six images, Gemini tool family, stored in the owner's local asset workspace outside the repository) and is reviewed in [ROUND_01_REVIEW_AND_SELECTION.md](ROUND_01_REVIEW_AND_SELECTION.md). The next generation action is the bounded **Round 1.5 refinement pass** defined in the [3D benchmark reference brief](../06_production/BENCHMARK_3D_REFERENCE_PACKAGE_V0.4.md), then the owner's formal picks. The prompts and rubric below remain the working toolkit; the provenance log (§8) is mandatory from Round 1.5 onward.
+
 Design source: [visual development package](VISUAL_DEVELOPMENT_V0.3.md) · [Hilltop set plan](HILLTOP_SET_V0.3.md) · construction sketches in [`sketches/`](sketches/mulu_silhouette_families.svg).
 
 ## 1. Gates before generating
