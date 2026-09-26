@@ -1,5 +1,14 @@
 {
   "schema_version": "0.1",
-  "status": "UNDEFINED",
-  "items": []
+  "status": "DEVELOPMENT_BASELINE",
+  "note": "Register of owner-approved visual reference assets (DEC-0020). Assets live in the owner's local asset workspace OUTSIDE the repository (no image bytes committed); detailed per-asset records, visual verification and provenance fields: ROUND_1_5_BASELINE_MANIFEST.json.",
+  "local_root": "C:/Users/PC/Documents/GitHub/Kids Studio Assets/Visual Development/Round 01",
+  "items": [
+    {"id": "R15-MULU-MASTER", "category": "mulu", "file": "Mulu/R1.5_MULU_3D_MASTER.jfif", "role": "working Mulu 3D development baseline; V-01 source still", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true},
+    {"id": "R15-TEKLA-MASTER", "category": "tekla", "file": "Tekla/R1.5_TEKLA_3D_MASTER.jfif", "role": "working Tekla 3D development baseline; V-03/V-04 source still", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true},
+    {"id": "R15-PAIR-BASELINE", "category": "pair", "file": "Pair/R1.5_PAIR_3D_BASELINE.jfif", "role": "working pair/staging 3D baseline (talk height)", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true},
+    {"id": "R15-CLOUD-HAT", "category": "pair", "file": "Pair/R1.5_CLOUD_HAT_3D.jfif", "role": "Cloud Hat signature-contact reference", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true},
+    {"id": "R15-RAIN-OFF-SHELL", "category": "pair", "file": "Pair/R1.5_RAIN_OFF_SHELL_3D.jfif", "role": "rain-off-the-shell rule reference", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true},
+    {"id": "R15-HILLTOP-MASTER", "category": "hilltop", "file": "Hilltop/R1.5_HILLTOP_3D_MASTER.jfif", "role": "working Hilltop environment baseline; V-05 source still", "phase": "round_1_5", "tool": "Gemini (owner-run)", "owner_confirmed": true}
+  ]
 }

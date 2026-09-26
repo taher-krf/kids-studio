@@ -103,6 +103,29 @@ class SketchTests(unittest.TestCase):
         review = ROOT / '05_visual_system' / data['review_document']
         self.assertTrue(review.is_file())
 
+    def test_round_1_5_baseline_manifest(self):
+        data = json.loads((ROOT / '05_visual_system' / 'ROUND_1_5_BASELINE_MANIFEST.json').read_text(encoding='utf-8'))
+        self.assertEqual(data['status'], 'DEVELOPMENT_BASELINE')
+        self.assertFalse(data['canon_lock'])
+        self.assertFalse(data['production_authorized'])
+        self.assertEqual(data['owner_confirmation'], 'DEC-0020')
+        self.assertEqual(data['round'], 'round_1_5')
+        ids = [asset['id'] for asset in data['assets']]
+        self.assertEqual(len(ids), len(set(ids)))
+        categories = {asset['category'] for asset in data['assets']}
+        self.assertEqual(categories, {'mulu', 'tekla', 'pair', 'hilltop'})
+        for asset in data['assets']:
+            self.assertTrue(asset['file'].startswith(('Mulu/R1.5_', 'Tekla/R1.5_', 'Pair/R1.5_', 'Hilltop/R1.5_')))
+            self.assertTrue(asset['role'])
+            self.assertTrue(asset['visual_status'])
+            self.assertTrue(asset['owner_confirmed'])
+            self.assertEqual(asset['phase'], 'Round 1.5')
+            self.assertEqual(asset['tool'], 'Gemini (owner-run, manual Round 1.5)')
+            self.assertEqual(asset['provenance']['prompt'], 'UNKNOWN')
+            self.assertEqual(asset['provenance']['seed'], 'UNKNOWN')
+        registry = json.loads((ROOT / '05_visual_system' / 'ASSET_REGISTRY.json').read_text(encoding='utf-8'))
+        self.assertEqual({item['id'] for item in registry['items']}, set(ids))
+
 
 if __name__ == '__main__':
     unittest.main()

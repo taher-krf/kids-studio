@@ -1,8 +1,8 @@
 # 3D Benchmark Reference Package v0.4 — Brief for the Next Phase
 
-**Status: BRIEF. SPECIFIES FUTURE WORK. THE BENCHMARK IS NOT AUTHORIZED TO RUN. NO TOOL, RENDERER OR PURCHASE IS SELECTED.** Proposed as `PROP-0009` under the owner-communicated **3D-first working direction** (2026-09-26). It adapts the [benchmark reference package v0.3](BENCHMARK_REFERENCE_PACKAGE_V0.3.md) — which stays the governing spec for shot lists, weights and acceptance logic — to a 3D visual target, using the [Round 01 review](../05_visual_system/ROUND_01_REVIEW_AND_SELECTION.md). Nothing here is canon.
+**Status: BRIEF. ROUND 1.5 IS CLOSED (2026-09-26, see §2). THE BENCHMARK IS NOT AUTHORIZED TO RUN. NO TOOL, RENDERER OR PURCHASE IS SELECTED.** Proposed as `PROP-0009` under the owner-communicated **3D-first working direction** (2026-09-26). It adapts the [benchmark reference package v0.3](BENCHMARK_REFERENCE_PACKAGE_V0.3.md) — which stays the governing spec for shot lists, weights and acceptance logic — to a 3D visual target, using the [Round 01 review](../05_visual_system/ROUND_01_REVIEW_AND_SELECTION.md). Nothing here is canon.
 
-The path to the benchmark is now: **Round 1.5 (refinement) → owner confirms the four baselines → Round 2 (3D model sheets) → image-to-video smoke test → Round 3 (benchmark-grade 3D package) → owner authorizes the weighted benchmark.**
+The path to the benchmark is now: **Round 1.5 (refinement — CLOSED 2026-09-26) → owner confirmed the four baselines (`DEC-0020`) → Round 2 (3D model sheets, [checklist](ROUND_2_GENERATION_CHECKLIST_V0.1.md)) → image-to-video smoke test ([package](VIDEO_SMOKE_TEST_PACKAGE_V0.1.md)) → Round 3 (benchmark-grade 3D package) → owner authorizes the weighted benchmark.**
 
 ## 1. What changes under a 3D target
 
@@ -31,7 +31,25 @@ One small batch per category, same tool family as Round 01, structure-conditione
 | R1.5-08 | Hilltop 3D master wide (HT-01 framing) | R-H1…R-H4 clean: set-plan geography, umbrella bed, two-square board, no clutter |
 | R1.5-09 | Thumbnail board (G-14) from the above | both leads nameable as silhouettes at 48 px |
 
-**Owner gate after Round 1.5:** confirm the four baselines (or send one back). This is the formal pick moment from the generation package, one pass later than planned.
+### Round 1.5 closeout (2026-09-26)
+
+The owner ran Round 1.5 **manually in Gemini** and retained only the refined assets; the Round 01 exploration files were deleted. All six retained images were visually inspected against the acceptance column (evidence record: [ROUND_1_5_BASELINE_MANIFEST.json](../05_visual_system/ROUND_1_5_BASELINE_MANIFEST.json); findings `RES-0011`). Files live in the owner's local asset workspace, not in the repository.
+
+| ID | Status | Evidence (actual file) | Notes |
+| --- | --- | --- | --- |
+| R1.5-01 | **COMPLETE** | `Mulu/R1.5_MULU_3D_MASTER.jfif` | floating flat base, two nubs (no fingers), dark oval eyes, underside band, no sweat-drop. Watch: nubs elongated vs tiny-stub spec; Top Puff sits image-right (his left) vs the spec handedness (D04) — Round 2 keeps the master consistent unless the owner rules a flip; curl reads as a soft front spiral |
+| R1.5-02 | **NOT PRODUCED** | — | no happy/sad/worried variant sheet exists; carried into Round 2 (item M-2) and blocks V-02's intended source still |
+| R1.5-03 | **COMPLETE** | `Tekla/R1.5_TEKLA_3D_MASTER.jfif` | half-lidded deadpan, folded arms, ruler in pocket, head shield, tapered snout. Watch: light sclera retained (R-T1 partial); three-band count unverifiable from this angle — verify in turnaround (D11); ears tall (R-T5 watch confirmed at 48 px) |
+| R1.5-04 | **NOT PRODUCED** | — | no Curl ball / Peek render exists; carried into Round 2 (item T-2); V-04 runs exploratory until it exists |
+| R1.5-05 | **COMPLETE** | `Pair/R1.5_PAIR_3D_BASELINE.jfif` | talk height proven in 3D, Round 01 chemistry preserved; float-height variant carried into the Round 2 pair sheet |
+| R1.5-06 | **COMPLETE** | `Pair/R1.5_CLOUD_HAT_3D.jfif` | standing Cloud Hat proven; curled-ball Cloud Hat variant (ear tips at the seam, G-10) carried into Round 2. Weakest 48 px silhouette — `RSK-0006` item 1 stays open ([thumbnail board](../05_visual_system/THUMBNAIL_BOARD_R1_5.md)) |
+| R1.5-07 | **COMPLETE** | `Pair/R1.5_RAIN_OFF_SHELL_3D.jfif` | teardrops fall straight from the flat base (D08 clean); drops bead and roll off the shell; she is dry (D13 clean) |
+| R1.5-08 | **COMPLETE** | `Hilltop/R1.5_HILLTOP_3D_MASTER.jfif` | corrected geography: tree stage-left, garden + bench/chair right, stream at the foot, red upturned umbrella bed, two-square board, uncluttered. Watch: Forecast Board stands left of the door vs the set plan's right (D18) — pin in Round 2 plates |
+| R1.5-09 | **COMPLETE with limitations** | `_tests/R15_THUMBNAIL_BOARD_*.png` (local) | produced by agent from the retained masters ([record](../05_visual_system/THUMBNAIL_BOARD_R1_5.md)); both leads nameable at 48 px; cream-on-cream segmentation and the Cloud Hat weakness documented |
+
+**Provenance (R-X1):** the owner kept no prompt/seed log for Round 1.5 — provenance fields are recorded as UNKNOWN in the manifest rather than invented. R-X1 is mandatory from Round 2 onward. **R-X2 clean:** no annotations in any retained reference art.
+
+**Owner gate after Round 1.5 — PASSED (2026-09-26, `DEC-0020`):** the owner confirmed all four baselines plus the Cloud Hat and rain-off-shell references as **development baselines** — not Final Canon v1.0, not a renderer lock, no publication or production spend authorized.
 
 ## 3. Round 2 — 3D model sheets (after owner confirmation)
 

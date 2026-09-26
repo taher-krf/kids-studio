@@ -1,6 +1,8 @@
 {
   "schema_version": "0.1",
   "status": "DEVELOPMENT_PROPOSAL",
+  "current_status": "HISTORICAL - SUPERSEDED 2026-09-26. The owner completed Round 1.5 manually (Gemini), confirmed the refined assets as the working 3D development baselines (DEC-0020), and deleted the six Round 01 exploration images from the local asset workspace. The Round 01 filenames in this document no longer exist on disk; they are retained below as the historical record of the Round 01 review only. Current baselines: ROUND_1_5_BASELINE_MANIFEST.json.",
+  "superseded_by": "ROUND_1_5_BASELINE_MANIFEST.json",
   "round": "round_01",
   "reviewed": "2026-09-26",
   "review_document": "ROUND_01_REVIEW_AND_SELECTION.md",
@@ -8,7 +10,8 @@
   "image_storage": {
     "decision": "Exploration images stay in the owner's local asset workspace outside the canonical repository; the repo stores references and scores only.",
     "local_root": "C:/Users/PC/Documents/GitHub/Kids Studio Assets/Visual Development/Round 01",
-    "tool_observed": "Gemini image generation (per filenames); no prompt/seed log was kept (see refinement R-X1)"
+    "tool_observed": "Gemini image generation (per filenames); no prompt/seed log was kept (see refinement R-X1)",
+    "file_status_2026-09-26": "The six Round 01 files referenced below were deleted by the owner after Round 1.5; the folders now hold only the refined Round 1.5 assets (see ROUND_1_5_BASELINE_MANIFEST.json)."
   },
   "selections": [
     {

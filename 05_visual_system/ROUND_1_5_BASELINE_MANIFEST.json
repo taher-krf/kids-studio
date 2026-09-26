@@ -1,0 +1,160 @@
+{
+  "schema_version": "0.1",
+  "status": "DEVELOPMENT_BASELINE",
+  "round": "round_1_5",
+  "recorded": "2026-09-26",
+  "owner_confirmation": "DEC-0020",
+  "note": "Owner-confirmed 3D DEVELOPMENT BASELINES (DEC-0020). Not Final Canon v1.0, not a renderer lock, no publication or production spend authorized. Supersedes the Round 01 recommendations in ROUND_01_SELECTION_MANIFEST.json (retained as history).",
+  "review_document": "ROUND_01_REVIEW_AND_SELECTION.md",
+  "closeout_record": "../06_production/BENCHMARK_3D_REFERENCE_PACKAGE_V0.4.md",
+  "working_direction": "3D-first (owner-confirmed, DEC-0020): 3D characters, 3D world, 3D video production tests",
+  "image_storage": {
+    "decision": "Images remain in the owner's local asset workspace outside the canonical repository; the repository stores references and records only (RSK-0006 item 8 practice stands). No raw image bytes are committed.",
+    "local_root": "C:/Users/PC/Documents/GitHub/Kids Studio Assets/Visual Development/Round 01",
+    "current_files_note": "The owner deleted the six Round 01 exploration images on 2026-09-26 after completing Round 1.5 manually (Gemini). The filenames below are the actual files on disk, verified 2026-09-26; prior Round 01 filenames survive only as historical references."
+  },
+  "assets": [
+    {
+      "id": "R15-MULU-MASTER",
+      "category": "mulu",
+      "file": "Mulu/R1.5_MULU_3D_MASTER.jfif",
+      "format": "JPEG (.jfif), 2816x1536",
+      "role": "Refined 3D Mulu master (front, neutral); working Mulu 3D development baseline; source still for smoke test V-01",
+      "checklist_item": "R1.5-01",
+      "visual_status": "VERIFIED 2026-09-26 against the M-B spec: floating flat base with cool blue-grey underside band; no humanoid torso, no legs or feet; two side nubs, no fingers; asymmetric Cumulus silhouette with tall Top Puff and hooked curl plus one small shoulder puff; dark vertical oval eyes with one highlight each, no sclera; separate chunky brows; small smile; soft matte cream 3D material; plain light-cream background; no annotations. WATCH ITEMS: side nubs read elongated/droopy vs the tiny-round-stub spec (Round 2 turnaround must pin nub proportions); Top Puff sits image-right in this front view (his left) while the spec handedness rule puts it over his own right (D04) - Round 2 keeps the master's side consistently unless the owner rules a flip; the curl renders as a soft front spiral, larger than the spec's small hooked curl (soft-serve swirl is on the avoid list) - keep consistent or correct in Round 2.",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "M-B 'Cumulus' construction spec (05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 2); developed from the Round 01 3D Mulu candidate (file deleted)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    },
+    {
+      "id": "R15-TEKLA-MASTER",
+      "category": "tekla",
+      "file": "Tekla/R1.5_TEKLA_3D_MASTER.jfif",
+      "format": "JPEG (.jfif), 2816x1536",
+      "role": "Refined 3D Tekla master (3/4, deadpan, arms folded); working Tekla 3D development baseline; source still for smoke tests V-03 and V-04",
+      "checklist_item": "R1.5-03",
+      "visual_status": "VERIFIED 2026-09-26 against the T-C spec: compact semi-upright body; integrated terracotta head shield (hard-hat read); tapered snout; half-lidded eyes with a flat lid line (deadpan reads); small flat mouth; arms folded (R-T3 clean); teal apron with one big front pocket; yellow folding ruler in the pocket (R-T4 clean); shell bands with a stepped outline visible on her back/side. WATCH ITEMS: eyes retain a light sclera around the dark pupils (R-T1 wanted no sclera - partial); exact three-band count not fully verifiable from this 3/4 front view - verify per view in the Round 2 turnaround (D11); ears read tall/upright - rabbit/aardvark neighbour watch at <=64 px confirmed visible on the thumbnail board (R-T5 / RSK-0006 item 4).",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "T-C 'Leaning Egg' construction spec (05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 3); developed from the Round 01 3D Tekla candidate (file deleted)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    },
+    {
+      "id": "R15-PAIR-BASELINE",
+      "category": "pair",
+      "file": "Pair/R1.5_PAIR_3D_BASELINE.jfif",
+      "format": "JPEG (.jfif), 2816x1536",
+      "role": "Refined 3D pair baseline at talk height; working pair/staging baseline",
+      "checklist_item": "R1.5-05",
+      "visual_status": "VERIFIED 2026-09-26: Mulu floating at talk height, eye lines meet; Tekla grounded, arms folded, ruler in pocket; both consistent with the accepted masters; scale within spec tolerance (Mulu about twice her body width, about her height); silhouette contrast instant (wide/soft/cream vs narrow/crisp/terracotta); chemistry of the Round 01 2D pair preserved in 3D. COVERAGE NOTE: float height (~1.1 TH, clear of her ears) is not separately evidenced; carried into the Round 2 pair sheet.",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "Pair scale and staging spec (05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 4); Round 01 2D pair staging (file deleted)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    },
+    {
+      "id": "R15-CLOUD-HAT",
+      "category": "pair",
+      "file": "Pair/R1.5_CLOUD_HAT_3D.jfif",
+      "format": "JPEG (.jfif), 2816x1536",
+      "role": "Cloud Hat 3D pose; working signature-contact reference (DEC-0020)",
+      "checklist_item": "R1.5-06",
+      "visual_status": "VERIFIED 2026-09-26: Mulu settled on Tekla's head like a soft hat, his flat base in contact with her head shield, his side nubs draping like ear flaps; slight 3/4 from slightly above; she is calm, arms folded. CONFIGURATION NOTE: this is the standing Cloud Hat; the curled-ball Cloud Hat variant of G-10 (her ear tips peeking from the ball's seam) is not yet produced - carried into Round 2. 48 px silhouette remains the weakest of the four subjects (merged single-figure read) - RSK-0006 item 1 stays open; see THUMBNAIL_BOARD_R1_5.md.",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "Contact set spec (05_visual_system/VISUAL_DEVELOPMENT_V0.3.md section 4.3, G-10)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    },
+    {
+      "id": "R15-RAIN-OFF-SHELL",
+      "category": "pair",
+      "file": "Pair/R1.5_RAIN_OFF_SHELL_3D.jfif",
+      "format": "JPEG (.jfif), 2816x1536",
+      "role": "Rain-off-the-shell 3D interaction; working visual reference for the waterproof-shell rule (DEC-0019 item 8, DEC-0020)",
+      "checklist_item": "R1.5-07",
+      "visual_status": "VERIFIED 2026-09-26: Mulu's rain falls straight down from his flat base as discrete teardrops (D08 clean - no sweat-drop water grammar); drops bead and roll off Tekla's banded shell; she is completely dry and unbothered (D13 clean); his worried face reads. Her arms are at her sides here (interaction pose, not the folded-arms default - legitimate).",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "Rain-off-shell spec (05_visual_system/VISUAL_DEVELOPMENT_V0.3.md sections 2.6 and 4.3, G-11)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    },
+    {
+      "id": "R15-HILLTOP-MASTER",
+      "category": "hilltop",
+      "file": "Hilltop/R1.5_HILLTOP_3D_MASTER.jfif",
+      "format": "JPEG (.jfif), 2752x1536",
+      "role": "Corrected 3D Hilltop master wide; working environment baseline; source still for smoke test V-05",
+      "checklist_item": "R1.5-08",
+      "visual_status": "VERIFIED 2026-09-26 against HILLTOP_SET_V0.3: grassy knoll with round wooden plank door upstage centre; red upturned umbrella bed on a wooden post above the door (ribs and hooked handle readable); Lookout Tree stage-left with one long branch reaching over the hill; vegetable garden with red pinwheel on the right slope; plank bench and pegged ladder-back chair downstage right; stream at the foot of the hill with stepping stones and a plank bridge; two-square Forecast Board with sun and cloud pictograms (no text); wind chimes on a crooked post left of the door; open uncluttered lawn; distant village rooftops only; no people; no text. WATCH ITEM: the Forecast Board stands LEFT of the door in this render while the set plan places it right of the door - pin the position in the Round 2 camera plates (D18).",
+      "tool": "Gemini (owner-run, manual Round 1.5)",
+      "phase": "Round 1.5",
+      "references": "Hilltop set plan (05_visual_system/HILLTOP_SET_V0.3.md); Round 01 2D Hilltop plate was composition reference only (file deleted)",
+      "provenance": {
+        "prompt": "UNKNOWN",
+        "negative_list": "UNKNOWN",
+        "seed": "UNKNOWN",
+        "settings": "UNKNOWN",
+        "model_version": "UNKNOWN",
+        "batch_id": "UNKNOWN",
+        "human_edits": "UNKNOWN",
+        "note": "Owner ran Round 1.5 manually and kept no prompt/seed log; the R-X1 provenance gap persists for Round 1.5 and is mandatory from Round 2 onward."
+      },
+      "owner_confirmed": true
+    }
+  ],
+  "round_01_source_files": "DELETED BY THE OWNER 2026-09-26 (six Gemini_Generated_Image_*.jfif); their scores and roles remain documented in ROUND_01_REVIEW_AND_SELECTION.md as Round 01 evidence",
+  "thumbnail_board": "05_visual_system/THUMBNAIL_BOARD_R1_5.md (local test artifacts in the asset workspace _tests folder)",
+  "canon_lock": false,
+  "production_authorized": false
+}
